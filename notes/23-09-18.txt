@@ -10,3 +10,5 @@ Criteria -
 	Ped & Bike Access
 	Future Adaptability
 	Constructability
+
+Weights are going to be decided later. Presumably on October 27.
