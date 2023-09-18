@@ -1,0 +1,12 @@
+Weighted Design Matrix:
+Criteria -
+	Address Purpose and Needs
+	Standard Design
+	B/C Ratio
+	Envionmental Impact
+	ROW Acquisition 
+	Traffic LOS 
+	User Expectations
+	Ped & Bike Access
+	Future Adaptability
+	Constructability
