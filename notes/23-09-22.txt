@@ -1,0 +1,21 @@
+We recieved a response from the Morongo Band of Mission Indians.
+We are no longer using Canvas
+The general gant chart is based on all the lead schedules
+We may have a progress bar
+We have base-map, topo, row maps
+We have parcels!
+We also have drone data, but we don't know how to parse it.
+Environmental is going over their PDT slides
+	Endangered species are not in our work area. 
+	Fire hazards maps are also here
+	land use maps from banning and cabazon general plans
+Traffic is going over their PDT slides
+	Collision data is coming along 
+	forecasting is also coming along, currently got banning near-term
+	forecasting build horizon (Time to build construction and future)
+	The data is somewhat outdated.. working on getting census data working 
+	Synchro is going
+	Present: We have no clue what is going on with Apache Trail
+	LPI: Leading Pedestrian Interval
+		Caltrans needs this for all their intersections
+		
