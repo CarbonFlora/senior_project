@@ -20,3 +20,36 @@ Description = The stock configuration for Caltrans 2022.
 9. Select "Caltrans" as the WorkSpace and the WorkSet should automatically be set to "Caltrans_Standards".
 10. Browse for the file titled, "2023_I10_Basemap_DesignFile.dgn". This is located in The Google Drive DIR: 02.01.03
 11. Find the site location and view around. DO NOT SAVE YOUR EDITS ONTO THIS FILE.
+
+---
+
+Best Practices for OpenRoads	
+	Microstation files don't contain Civil Elements like alignments and labels. For the purposes of design, we need to convert these Microstation files to OpenRoads files. For every design file, we need to use the "Seed2D - Imperial Design.dgn"[1] file in the Caltrans WorkSpace and Workset. 
+
+[1] A Seed file is a completely blank design file with preset standards and styles.
+	
+Copy the 2D seed file from inside the Caltrans WorkSpace folder and rename the copy to the file you want created. This can also be done from the OpenRoads Homepage.
+
+Ex. 2d Seed File -> ha_ramp_1_v0.1.0
+
+After opening the newly created and renamed file, you must "civilize" the file. Please see the picture below on where this icon is located.
+	
+todo!()
+
+Reference all the required files through the "Attach Tools" feature. 
+
+List 1:
+	Horizontal Alignment
+	Profile
+	Edge of Pavement
+	Right of Way
+	Existing Ground 
+	Striping
+	
+List 2: 
+	Corridor		
+
+List 3:
+	Superelevation
+	Decorations 😊
+	
