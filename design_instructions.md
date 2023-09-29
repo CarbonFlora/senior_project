@@ -34,7 +34,7 @@ Ex. 2d Seed File -> ha_ramp_1_v0.1.0
 
 After opening the newly created and renamed file, you must "civilize" the file. Please see the picture below on where this icon is located.
 	
-todo!()
+![alt_text](https://github.com/CarbonFlora/senior_project/blob/master/pictures/pic1.PNG)
 
 Reference all the required files through the "Attach Tools" feature. 
 
