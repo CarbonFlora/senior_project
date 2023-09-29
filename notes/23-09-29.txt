@@ -1,0 +1,92 @@
+Caltrans presentation:
+ineterchange types nad other gepmretric topics 
+standards and guidance
+	AASHTO policy on design standard interstate system
+	highway design manual
+	county of riverside plans for local roads
+design is based on 20 years out from the completion of the project
+	roundabout design period is in index 405.10
+we got already got the design speed of the I-10 
+	since the I-10 is an existing facility, we look at posted speed
+HDM 200 geoemtric design and structure standards
+	lane width shoulder width bike lane cross slope 
+	shoulder widths in table 302.1
+HDM 400 intersection at grade
+	intersection type, angle of intersection, design vehicles, turning movements
+STAA design vehicle is used for Caltrans. This is a large vehicle that covers the majority of emergency needs.
+	https://dot.ca.gov/programs/traffic-operations/legal-truck-access/quick-guide
+	deciding to use single or double trailer template is up to the type of traffic in the area.
+HDM 500 interchanges
+	Intention of a freeway
+	high standard roadway
+	high design speed
+	SAFE
+	minimal friction and potholes
+	..
+The definition of an interchange is a grade seperated roadway. caltrans has an agreement with county or city for which areas have an interchange.
+interchange spacing
+FHWA must be contacted to install an extra interchange as there's not enough spacing for outside of urban areas.
+Typical interchanges
+	Type 1 Compact Diamond
+	Type 2 Spread Diamond
+	Type 3 Split Diamond
+Typical Service interchanges parallel street system
+	Type 4
+	Type 5
+	Type 6 (popular in LA but not ideal)
+Typical cloverleaf 
+	Type 7
+	Type 8
+	Type 9 
+	Type 10 (full cloverleaf)
+Single point interchange
+	Type 11
+	Type 12
+	Type 13 (SPUI)
+Diverging diamond interchange 
+
+Intersection Control Evaluation 
+	The highway design manual is the best practices manual
+	we are allowed to ask for exceptions 
+	you need caltrans and FHWA approval for exceptions 
+		FHWA will ask for what you can do to the adjacent interchanges
+	try to think up interchanges that don't exist in the manual
+	ICE is a decision making process for selecting control measures at intersections for ped and non-motor access.
+Intersection Safety and Operational Analysis Process (ISOAP)
+	Successor to the ICE procedures
+	new or major modifications to intersections 
+	Does not apply:
+		mod to signing and striping without widening
+		upgrading signal heads and poles
+		changing signal timing, phasing, software
+		restrictions to existing intersections
+		installation of warning devices
+	Stage #1 screening / assessment
+	A. Viable intersection alternatives
+		based on available information
+		meets purpose and need
+		assess need for pedestrian and bicycle access
+		identify fatal flaws
+	B. Footprint
+		compare to existing
+		number of lanes
+		configuration
+		right of way
+	C. Safety Assessment
+		compare to existing condition
+		conflict points
+		complexity
+		speed reduction measures
+		visibility enchancements
+		HSM analysis (compare to existing)
+	Stage #2 Detailed Analysis
+	A. Deisgn
+		conceptual layouts
+		sight distance
+		minimize conflict points / improve safety
+		vehicle accommodation
+		pedestrian / bicycleists
+		cost estimate
+
+See today's presentation slides for more extensive details on the ISOAP and stage 2.
+We need to fill out form 1 and form 2. The guidelines are also somewhere here.
