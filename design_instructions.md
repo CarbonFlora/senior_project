@@ -23,8 +23,8 @@ Description = The stock configuration for Caltrans 2022.
 
 ---
 
-Best Practices for OpenRoads	
-	Microstation files don't contain Civil Elements like alignments and labels. For the purposes of design, we need to convert these Microstation files to OpenRoads files. For every design file, we need to use the "Seed2D - Imperial Design.dgn"[1] file in the Caltrans WorkSpace and Workset. 
+### Best Practices for OpenRoads	
+Microstation files don't contain Civil Elements like alignments and labels. For the purposes of design, we need to convert these Microstation files to OpenRoads files. For every design file, we need to use the "Seed2D - Imperial Design.dgn"[1] file in the Caltrans WorkSpace and Workset. 
 
 [1] A Seed file is a completely blank design file with preset standards and styles.
 	
