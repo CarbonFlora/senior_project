@@ -1,0 +1,8 @@
+Purpose and Needs
+	Jasper's purpose and need is the updated P&N
+jasper wants an example of isoap.
+team leads meeting has to remain the same, unless otherwise noted.
+we have a tif file from USGS that covers both ramsey and main. this covers the existing ground. 
+bowling event for design team 1 after 3, at round 1.
+jasper has created the isoap.
+we may benefit from a sight triangle calculator.
