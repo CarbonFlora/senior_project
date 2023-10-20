@@ -1,6 +1,15 @@
 ﻿# Senior Project i10
 -----
 
+## Purpose and Need
+Provide safety and operational improvements along Interstate-10 (I-10) and its access points to accommodate the existing and forecasted travel demand, associated with local and regional growth, for the 2050 design year.
+Improve the existing interchange geometry at the East Ramsey Street and Main Street Interchange.
+Accommodate multimodal travel that integrates with the City of Banning’s General Plan, Cabazon Master Plan, and regional plans.
+
+The nonstandard ramp alignments, ramp intersections, and the absence of the Westbound On- and Eastbound Off-Ramps at the East Ramsey Street interchange; The absence of connections for anticipated travel across the existing railroad alignment.
+
+Gaps in the pedestrian and bicycle infrastructure impede the connection between the existing and planned communities at the East Ramsey Street and Main Street interchanges.
+
 ## Intro
 Hello design lead 2 members. This will be the place where you can store notes and add issues you have when working with the project. The purpose this serves over traditional communication is that everything is archived. As one of the purposes of this senior project is to learn new things, the following software will help your design adventure:
 
