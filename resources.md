@@ -36,3 +36,6 @@ This is the collection of custom documentation created for the senior project.
 
 - Coverting between metric and imperial, as well as other settings.  
 <https://github.com/CarbonFlora/senior_project/blob/master/changing_settings.md>
+
+- Changing the Contour Interval for a Terrain.  
+<https://github.com/CarbonFlora/senior_project/blob/master/contour_interval.md>
