@@ -6,7 +6,7 @@ Provide safety and operational improvements along Interstate-10 (I-10) and its a
 Improve the existing interchange geometry at the East Ramsey Street and Main Street Interchange.
 Accommodate multimodal travel that integrates with the City of Banning’s General Plan, Cabazon Master Plan, and regional plans.
 
-The nonstandard ramp alignments, ramp intersections, and the absence of the Westbound On- and Eastbound Off-Ramps at the East Ramsey Street interchange; The absence of connections for anticipated travel across the existing railroad alignment.
+The nonstandard ramp alignments, ramp intersections, and the absence of the Westbound On- and Eastbound Off-Ramps at the East Ramsey Street interchange.  
 
 Gaps in the pedestrian and bicycle infrastructure impede the connection between the existing and planned communities at the East Ramsey Street and Main Street interchanges.
 
