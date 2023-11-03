@@ -1,3 +1,10 @@
+### Interchanges
+1. relocated trumpet full standard
+2. relocated spread & tight diamond full standard
+3. tight diamond
+4. hybrid parclo & tight diamond
+
+
 Source: caltrans slides for 23-10-13
 
 ## GAD
