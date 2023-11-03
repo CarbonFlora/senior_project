@@ -1,0 +1,64 @@
+### Advance Planning Study (APS)
+Presenter: Tiffany
+please see the presentation today for diagrams and pictures. 
+
+Bridge Types and Bridge Components
+Is prepared feasibilty type of strUCTURE fr project approval and envornmental document (PA&ED)
+Preliminary cost estimate and working days estimate
+id the idea of potential impacts
+requested by the district design division
+required when:
+	new bridge
+	bridge replacement
+	bridge widening 
+	bridge rehabilitation
+	sound walls on bridge
+	non-standard retaining walls
+Bridge design needs at least 4-6 months to work on the project
+
+Bridge Types and Bridge Components
+	Cantilever Bridge
+	Cable-Stayed Bridge
+	Suspension Bridge
+	Truss Bridge
+	Arch Bridge
+	Tied Arch Bridge
+	!! Precast Girder
+	!! Box Girder
+
+Earth Retaining System
+	Cantilever Wall
+		most common wall used by caltrans
+		standard plan exists
+	mechanical stabalized embankment wall (MSE) with precast panels
+	MSE wall with Gabion baskets
+	Soldier Pile Wall 
+	Soil Nail Wall
+	Sheet Pile Wall
+	Tangent Pile Wall
+	Secant Pile Wall
+	Tieback Wall 
+
+Quantities Estimate
+	This may or may not be related to the SP
+	
+### Senior Project APS
+	project location Ramsey St
+		Ramsey St Bridge
+			This structure has been retrofitted before.
+			Excavate using a tie-back wall to help widen the roadway
+			We must replace the north end of the tunnel if we were to widen the street.
+
+	Main Street Over crossing 
+		widening on the right side or..
+		widening on both sides and keep the alignment the same. 
+
+	Apache trail undercrossing
+		if widening, then tie-back wall is required to retain the soil and open the road
+		very costly to consider anything
+		
+Standard according to caltrans and FHWA:
+16 ft minimum vertical clearance over the freeway 
+
+If the freeway needs to be widened, open abuntment is preferable. 
+Make sure all structures are buildable. 
