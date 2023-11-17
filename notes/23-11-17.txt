@@ -1,0 +1,16 @@
+### HSM
+Nominal Safety (adherence to the book, it's missing granular precision)
+Substantive Safety (from data, is a continum)
+
+### Predictive Analysis
+uses existing data to provide estimates for safety performance
+HSM applies to
+	nonstandard design features
+	geometric feature that varies from existing condition
+	new or modified interchange
+
+### Crash Types
+Predicted Crashes (HSM Crash Prediction Model)
+Observed Crashes (TASAS Pull)
+Expected Crashes
+
