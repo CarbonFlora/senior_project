@@ -4,9 +4,6 @@ Editor:
 Date:  
 Reviewed By:  
 
-### Preface
-You need to fill out one of these documents for each ramp. Please fill out this document to the best of your abilities. A Design Lead and Traffic Lead will review this document before this task will be considered done. Please use the appendix diagrams and highlighted HSM worksheet for more information on how to fill out this document.
-
 ### Location Information
 Roadway:                
 Roadway Section:        
