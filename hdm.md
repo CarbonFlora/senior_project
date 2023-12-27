@@ -559,3 +559,191 @@ The design of sidewalks and walkways varies depending on the setting, standards,
 (2) Financing.
 	(a) Freeways--Where the pedestrian grade separation is justified prior to award of the freeway contract, the State should pay the full cost of the pedestrian facility. In some cases, construction of the separation may be deferred; however, where the need has been established to the satisfaction of the Department prior to award of the freeway contract, the State should pay the entire cost of the separation. Local jurisdictions have control (by zoning and planning) of development that influences pedestrian traffic patterns. Therefore, where a pedestrian grade separation is justified after the award of a freeway contract, the State's share of the total construction cost of the separation should not exceed 50 percent. The State must enter into a cooperative agreement with the local jurisdiction on this basis.
 	(b) Conventional Highways--Grade separations are not normally provided for either cars or pedestrians on conventional highways. However, in those rare cases where pedestrian use is extensive, where it has been determined that placement and configuration of the grade separation will result in the majority of pedestrians using it, and where the local agency has requested in writing that a pedestrian separation be constructed, an overcrossing may be considered. The State's share of the total construction cost of the pedestrian facility should not exceed 50 percent. The State must enter into a cooperative agreement with the local jurisdiction on this basis.
+
+### 105.4 Accessibility Requirements
+(1) Background. The requirement to provide equivalent access to facilities for all individuals, regardless of  disability, is stated in several laws adopted at both the State and Federal level. Two of  the most notable references are The Americans with Disabilities Act of 1990 (ADA) which  was enacted by the Federal Government and took effect on January 26, 1992, and  Section 4450 of the California Government Code.
+	(a) Americans with Disabilities Act Highlights.
+		• Title II of the ADA prohibits discrimination on the basis of disability by state and  local governments (public entities). This means that a public entity may not deny  the benefits of its programs, activities and services to individuals with disabilities  because its facilities are inaccessible. A public entity’s services, programs, or  activities, when viewed in their entirety, must be readily accessible to and usable  by individuals with disabilities. This standard, known as “program accessibility,”  applies to all existing facilities of a public entity.
+		• Public entities are not necessarily required to make each of their existing facilities  accessible. Public entities may achieve program accessibility by a number of  methods (e.g., providing transit as opposed to structurally accessible pedestrian  facilities). However, in many situations, providing access to facilities through  structural methods, such as alteration of existing facilities and acquisition or  construction of additional facilities, may be the most efficient method of providing  program accessibility.
+		• Where structural modifications are required to achieve program accessibility, a  public entity with 50 or more employees is required to develop a transition plan  setting forth the steps necessary to complete such modifications.
+		• In compliance with the ADA, Title 28 of the Code of Federal regulations (CFR) Part  35 identifies all public entities to be subject to the requirements for ADA regardless  of funding source. It further states that the Uniform Federal Accessibility Standards  (UFAS) and the Americans with Disabilities Act Accessibility Guidelines for  Buildings and Facilities (ADAAG) are acceptable design guidelines that may be  used. However, FHWA has directed Caltrans to use the ADAAG as the Federal  design guidelines for pedestrian accessibility.
+	(b) California Government Code 4450 et seq. Highlights.
+		• Sections 4450 (through 4461) of the California Government Code require that  buildings, structures, sidewalks, curbs, and related facilities that are constructed  using any State funds, or the funds of cities, counties, or other political subdivisions  be accessible to and usable by persons with disabilities. 
+(2) Policy. It is Caltrans policy to:
+		• Comply with the ADA and the Government Code 4450 et seq. by making all State  highway facilities accessible to people with disabilities to the maximum extent  feasible. In general, if a project on State right of way is providing a pedestrian  facility, then accessibility must be addressed.
+(3) Procedures. 
+	(a) The engineer will consider pedestrian accessibility needs in the project initiation  documents for all projects where applicable.
+	(b) All State highway projects administered by Caltrans or others with pedestrian facilities must be designed in accordance with the requirements in Design Information Bulletin 82, “Pedestrian Accessibility Guidelines for Highway Projects.”
+	(c) The details of the pedestrian facilities and their relationship to the project as a whole  should be discussed with the District Design Liaison for the application of DIB 82, the  guidance of this manual, as well as other required design guidance. ADA compliance must be recorded on the Ready-to-List certification for Stateadministered projects. Appropriate project records should document the fact that  necessary review and approvals have been obtained as required above. In addition to the above mentioned Design procedures, the Districts and Regions have  established procedures for certifying that the project “as-built” complies with the ADA  standards in DIB 82 before a project can achieve Construction Contract Acceptance  (CCA) or before the Notice of Completion is provided for a permit project.
+
+### 105.5 Guidelines for the Location and Design of Curb Ramps 
+(1) Policy. On all State highway projects adequate and reasonable access for the safe and convenient movement of persons with disabilities are to be provided across curbs that are constructed or replaced at pedestrian crosswalks. This includes all marked and unmarked crosswalks, as defined in Section 275 of the Vehicle Code. Access should also be provided at bridge sidewalk approaches and at curbs in the vicinity of pedestrian separation structures. Where a need is identified at an existing curb on a conventional highway, a curb ramp may be constructed either by others under encroachment permit or by the State.
+(2) Location Guidelines. When locating curb ramps, designers must consider the position of utilities such as power poles, fire hydrants, street lights, traffic signals, and drainage facilities. *When curb ramps are constructed or reconstructed, one curb ramp should be provided for each pedestrian street crossing. A blended transition that spans the curb return across both pedestrian crossings serves the purpose of two curb ramps.* For example, at intersection corners where two pedestrian street crossings are located, two curb ramps should be constructed; if only one pedestrian street crossing is located at a corner, one curb ramp may be constructed. See Index 105.6 for further information. The usage of the one-ramp design should be restricted to those locations where the volume of pedestrians and vehicles making right turns is low. This will reduce the potential frequency of conflicts between turning vehicles and persons with disabilities entering the common crosswalk area to cross either street. Ramps and/or curb openings should be provided at midblock crosswalks and where pedestrians cross curbed channelization or median islands at intersections. Often, on traffic signalization, channelization, and similar projects, curbs are proposed to be modified only on portions of an existing intersection. In those cases, consideration should be given to installing retrofit curb ramps on all legs of the intersection.
+(3) Ramp Design. Curb ramp designs should conform to current Standard Plans. See Index 105.4(3) for review procedures.
+
+### 105.6 Pedestrian Crossings
+There are various standards related to pedestrian crossings in this manual (e.g., the two curb ramps at each corner and pedestrian refuge island standards), as well as in DIB 82 (e.g., the curb ramp requirement) that depend on the existence of a pedestrian crossing as prescribed in the California Vehicle Code (CVC). Pedestrian facilities that support pedestrian crossings occur at marked and unmarked crosswalks. Per the CA MUTCD, a marked crosswalk is striped, including at midblock locations. An unmarked crosswalk is not striped and, per the CVC, depends on two elements: 1) it occurs at an intersection, and 2) it occurs where the sidewalk connects to the intersection. Without these two elements, there is no unmarked crosswalk. Per the CVC, pedestrian crossings are provided across highways as marked or unmarked crosswalks, thereby requiring vehicles to yield to pedestrians (CVC 21950). Two examples in Figure 105.6 clarify the existence of unmarked crosswalks at “T” intersections, but may also apply to four legged intersections. This example is based on the following CVC citations:
+	• Section 275 - For the definition of crosswalk, see Index 62.4(5). Section 275 describes marked and unmarked crosswalks.
+	• Section 360 - A highway is a way or place of whatever nature, publicly maintained and open to the use of the public for purposes of vehicular travel. Highway includes street.
+	• Section 365 - An “intersection” is the area embraced within the prolongations of the lateral curb lines, or, if none, then the lateral boundary lines of the roadways, of two highways which join one another at approximately right angles or the area within which vehicles traveling upon different highways joining at any other angle may come in conflict.
+	• Section 530 - A “roadway” is that portion of a highway improved, designed, or ordinarily used for vehicular travel.
+	• Section 555 - A “sidewalk” is that portion of a highway, other than the roadway, set apart by curbs, barriers, markings or other delineation for pedestrian travel.
+
+┌─────────────────────────┐  
+│Chapters 106-114 Skipped.│  
+└─────────────────────────┘  
+
+## Topic 115 – Designing for Bicycle Traffic
+### 115.1 General
+Under the California Vehicle Code, bicyclists generally have the same rights and duties that motor vehicle drivers do when using the State highway system. For example, they make the same merging and turning movements, they need adequate sight distance, they need access to all destinations, etc. Therefore, designing for bicycle traffic and designing for motor vehicle traffic are similar and based on the same fundamental transportation engineering principles. The main differences between bicycle and motor vehicle operations are lower speed and acceleration capabilities, as well as greater sensitivity to out of direction travel and steep uphill grades. Design guidance that addresses the safety and mobility needs of bicyclists on Class II bikeways (bike lanes) is distributed throughout this manual. See Chapter 1000 for additional bicycle guidance for Class I bikeways (bike paths) and Class III bikeways (bike routes). See Design Information Bulletin (DIB) 89 for Class IV bikeways (separated bikeways) guidance. All city, county, regional and other local agencies responsible for bikeways or roads except those freeway segments where bicycle travel is prohibited shall follow the bikeway design criteria established in this manual and the California MUTCD, as authorized in the Streets and Highways Code Sections 890.6 and 891(a). However, a local agency may utilize alternative design criteria as prescribed in the Streets and Highways Code Section 891(b). The decision to develop bikeways should be made in consultation and coordination with local agencies responsible for bikeway planning to ensure connectivity and network development. Generally speaking, bicycle travel can be enhanced by bikeways or improvements to the right-hand portion of roadways, where bicycles are required to travel. When feasible, a wider shoulder than minimum standard should be considered since bicyclists are required to ride to as far to the right as possible, and shoulders provide bicyclists an opportunity to pull over to let faster traffic pass. All transportation improvements are an opportunity to improve safety, access, and mobility for the bicycle mode of travel. 
+
+## Topic 116 – Bicyclists and Pedestrians on  Freeways
+### 116.1 General
+Seldom is a freeway shoulder open to bicycle, pedestrian or other non-motorized travel, but they can be opened for use if certain criteria assessing the safety and convenience of the freeway, as compared with available alternate routes, is met. However, a freeway should not be opened to bicycle or pedestrian use if it is determined to be incompatible. The District Traffic Engineer or designee and the Project Delivery Coordinator must approve any proposals to open freeways to bicyclists, pedestrian or other non-motorized use. See the California MUTCD and CVC Section 21960. When a new freeway segment is to remain open or existing freeway segment is to be reopened to these modes, it is necessary to evaluate the freeway features for their compatibility with safe and efficient travel, including:
+	• Shoulder widths
+	• Drainage grates; see Index 1003.5(2)
+	• Expansion joints
+	• Utility access covers on shoulders
+	• Frequency and spacing of entrance/exit ramps
+	• Multiple-lane entrance/exit ramps
+	• Traffic volumes on entrance/exit ramps and on lanes merging into exit ramps
+	• Sight distance at entrance/exit ramps
+	• Freeway to freeway interchanges
+	• The presence and design of rumble strips
+	• Longitudinal edges and joints
+If a freeway segment has no suitable non-freeway alternative and is closed because certain features are considered incompatible, the feasibility of eliminating or reducing the incompatible features should be evaluated. This evaluation may include removal, redesign, replacement, relocation or retrofitting of the incompatible feature, or installation of signing, pavement markings, or other traffic control devices. Where no reasonable, convenient and safe non-freeway alternative exists within a freeway corridor, the Department should coordinate with local agencies to develop new routes, improve existing routes or provide parallel bicycle and pedestrian facilities within or adjacent to the freeway right of way. See Project Development Procedures Manual Chapter 1, Article 3 (Regional and System Planning) and Chapter 31 (Nonmotorized Transportation Facilities) for discussion of the development of non-freeway transportation alternatives. 
+
+# CHAPTER 200 – GEOMETRIC DESIGN AND  STRUCTURE STANDARDS
+### Topic 201 – Sight Distance
+#### Index 201.1 – General
+Sight distance is the continuous length of highway ahead, visible to the highway user. Four types of sight distance are considered herein: passing, stopping, decision, and corner. Passing sight distance is used where use of an opposing lane can provide passing opportunities (see Index 201.2). Stopping sight distance is the minimum sight distance for a given design speed to be provided on multilane highways and on 2-lane roads when passing sight distance is not economically obtainable. Stopping sight distance also is to be provided for all users, including motorists and bicyclists, at all elements of interchanges and intersections at grade, including private road connections (see Topic 504, Index 405.1, & Figure 405.7). Decision sight distance is used at major decision points (see Indexes 201.7 and 504.2). Corner sight distance is used at intersections (see Index 405.1, Figure 405.7, and Figure 504.3I). **Table 201.1 shows the minimum standards for stopping sight distance related to design speed for motorists.** Stopping sight distances given in the table are suitable for Class II and Class III bikeways. The stopping sight distances are also applicable to roundabout design on the approach roadway, within the circulatory roadway, and on the exits prior to the pedestrian crossings. Also shown in Table 201.1 are the values for use in providing passing sight distance. See Chapter 1000 for Class I bikeway sight distance guidance. Chapter 3 of "A Policy on Geometric Design of Highways and Streets," AASHTO, contains a thorough discussion of the derivation of stopping sight distance.
+
+### 201.2 Passing Sight Distance
+Passing sight distance is the minimum sight distance required for the driver of one vehicle to pass another vehicle safely and comfortably. Passing must be accomplished assuming an oncoming vehicle comes into view and maintains the design speed, without reduction, after the overtaking maneuver is started.
+
+Table 201.1 Sight Distance Standards & Table 201.7 Decision Sight Distance
+┌────────┬────────┬───────┬────────┐
+│Design  │Stopping│Passing│Decision│
+│Speed   │(2)(ft) │(ft)   │(ft)    │
+│(1)(mph)│        │       │        │
+├────────┼────────┼───────┼────────┤
+│10      │50      │       │        │
+│15      │100     │       │        │
+│20      │125     │800    │        │
+│25      │150     │950    │        │
+│30      │200     │1100   │450     │
+│35      │250     │1300   │525     │
+│40      │300     │1500   │600     │
+│45      │360     │1650   │675     │
+│50      │430     │1800   │750     │
+│55      │500     │1950   │865     │
+│60      │580     │2100   │990     │
+│65      │660     │2300   │1050    │
+│70      │750     │2500   │1105    │
+│75      │840     │2600   │1180    │
+│80      │930     │2700   │1260    │
+└────────┴────────┴───────┴────────┘
+(1)See Topic 101 for selection of design speed.
+(2)For sustained downgrades, refer to underlined standard in Index 201.3
+
+The sight distance available for passing at any place is the longest distance at which a driver whose eyes are 3½ feet above the pavement surface can see the top of an object 4¼ feet high on the road. See Table 201.1 for the calculated values that are associated with various design speeds. In general, 2-lane highways should be designed to provide for passing where possible, especially those routes with high volumes of trucks or recreational vehicles. Passing should be done on tangent horizontal alignments with constant grades or a slight sag vertical curve. Not only are drivers reluctant to pass on a long crest vertical curve, but it is impracticable to design crest vertical curves to provide for passing sight distance because of high cost where crest cuts are involved. Passing sight distance for crest vertical curves is 7 to 17 times longer than the stopping sight distance. Ordinarily, passing sight distance is provided at locations where combinations of alignment and profile do not require the use of crest vertical curves. Passing sight distance is considered only on 2-lane roads. At critical locations, a stretch of 3- or 4-lane passing section with stopping sight distance is sometimes more economical than two lanes with passing sight distance. Passing on sag vertical curves can be accomplished both day and night because headlights can be seen through the entire curve. See Part 3 of the California Manual on Uniform Traffic Control Devices (California MUTCD) for criteria relating to the placement of barrier striping for no-passing zones. Note, that the passing sight distances shown in the California MUTCD are based on traffic operational criteria. Traffic operational criteria are different from the design characteristics used to develop the values provided in Table 201.1 and Chapter 3 of AASHTO, A Policy on Geometric Design of Highways and Streets. The aforementioned table and AASHTO reference are also used to design the vertical profile and horizontal alignment of the highway. Consult the District Traffic Engineer or designee when using the California MUTCD criteria for traffic operating-control needs. Other means for providing passing opportunities, such as climbing lanes or turnouts, are discussed in Index 204.5. Chapter 3 of AASHTO, A Policy on Geometric Design of Highways and Streets, contains a thorough discussion of the derivation of passing sight distance.
+
+### 201.3 Stopping Sight Distance
+The minimum stopping sight distance is the distance required by the user, traveling at a  given speed, to bring the vehicle or bicycle to a stop after an object ½-foot high on the  road becomes visible. Stopping sight distance for motorists is measured from the driver's  eyes, which are assumed to be 3 ½ feet above the pavement surface, to an object ½-foot  high on the road. See Index 1003.1(10) for Class I bikeway stopping sight distance  guidance. *The stopping sight distances in Table 201.1 should be increased by 20 percent on  sustained downgrades steeper than 3 percent and longer than one mile.*
+
+### 201.4 Stopping Sight Distance at Grade Crests
+Figure 201.4 shows graphically the relationships between length of highway crest vertical  curve, design speed, and algebraic difference in grades. Any one factor can be  determined when the other two are known.
+
+### 201.5 Stopping Sight Distance at Grade Sags
+From the curves in Figure 201.5, the minimum length of vertical curve which provides  headlight sight distance in grade sags for a given design speed can be obtained. If headlight sight distance is not obtainable at grade sags, lighting may be considered.  The District approval authority or Project Delivery Coordinator, depending upon the current  District Design Delegation Agreement, and the District Traffic Engineer or designee shall  be contacted to review proposed grade sag lighting to determine if such use is appropriate.
+
+### 201.6 Stopping Sight Distance on Horizontal Curves
+Where an object off the pavement such as a bridge pier, building, cut slope, or natural growth restricts sight distance, the minimum radius of curvature is determined by the stopping sight distance. Available stopping sight distance on horizontal curves is obtained from Figure 201.6. It is assumed that the driver's eye is 3 ½ feet above the center of the inside lane (inside with respect to curve) and the object is ½-foot high. The line of sight is assumed to intercept the view obstruction at the midpoint of the sight line and 2 feet above the center of the inside lane when the road profile is flat (i.e. no vertical curve). Crest vertical curves can cause additional reductions in sight distance. The clear distance (m) is measured from the center of the inside lane to the obstruction. The design objective is to determine the required clear distance from centerline of inside lane to a retaining wall, bridge pier, abutment, cut slope, or other obstruction for a given design speed. Using radius of curvature and minimum sight distance for that design speed, Figure 201.6 gives the clear distance (m) from centerline of inside lane to the obstruction. See Index 1003.1(13) for bikeway stopping sight distance on horizontal curve guidance. When the radius of curvature and the clear distance to a fixed obstruction are known, Figure 201.6 also gives the sight distance for these conditions. See Index 101.1 for technical reductions in design speed caused by partial or momentary horizontal sight distance restrictions. See Index 203.2 for additional comments on glare screens. Cuts may be widened where vegetation restricting horizontal sight distance is expected to grow on finished slopes. Widening is an economic trade-off that must be evaluated along with other options. See Topic 902 for sight distance requirements on landscape projects.
+
+### 201.7 Decision Sight Distance
+At certain locations, sight distance greater than stopping sight distance is desirable to allow drivers time for decisions without making last minute erratic maneuvers (see Chapter III of AASHTO, A Policy on Geometric Design of Highways and Streets, for a thorough discussion of the derivation of decision sight distance.) *On freeways and expressways the decision sight distance values in Table 201.7 should be used at lane drops and at off-ramp noses to interchanges, branch connections, safety roadside rest areas, vista points, and inspection stations.* When determining decision sight distance on horizontal and vertical curves, Figures 201.4, 201.5, and 201.6 can be used. Figure 201.7 is an expanded version of Figure 201.4 and gives the relationship among length of crest vertical curve, design speed, and algebraic difference in grades for much longer vertical curves than Figure 201.4. Decision sight distance is measured using the 3½-foot eye height and ½-foot object height. See Index 504.2 for sight distance at secondary exits on a collector-distributor road.
+
+## Topic 202 – Superelevation
+### 202.1 Basic Criteria
+When a vehicle moves in a circular path, it undergoes a centripetal acceleration that acts toward the center of curvature. This force is countered by the perceived centrifugal force experienced by the motorist. On a superelevated highway, this force is resisted by the vehicle weight component parallel to the superelevated surface and by the side friction developed between the tires and pavement. It is impractical to balance centrifugal force by superelevation alone, because for any given curve radius a certain superelevation rate is exactly correct for only one driving speed. At all other speeds there will be a side thrust either outward or inward, relative to the curve center, which must be offset by side friction. If the vehicle is not skidding, these forces are in equilibrium as represented by the following simplified curve equation, which is used to design a curve for a comfortable operation at a particular speed:
+
+Figure 201.4 Stopping Sight Distance on Crest Vertical Curves & 
+Figure 201.7 Decision Sight Distance on Crest Vertical Curves
+┌───────────────────────────────────────────────────────────────┐
+│L = Curve Length (feet)                                        │
+│A = Algebraic Grade Difference (%)                             │
+│S = Sight Distance (feet)                                      │
+│V = Design Speed for “S” in mph                                │
+│K = Distance in feet required to achieve a 1% change in  grade.│
+│    K value as shown on  graph is valid when S < L.            │
+├─────────────────┬───────────────┬─────────────────────────────┘
+│When S > L       │When S < L     │
+│L = 2S – 1329/A  │L = AS^2/1329  │
+└─────────────────┴───────────────┘
+Notes:
+	• Before using this figure for intersections, branch connections and exits, see Indexes 201.7 and 405.1, and Topic 504.
+	• See Figure 204.4 for vertical curve formulas.
+	• See Index 204.4 for minimum length of vertical curve
+	
+Figure 201.5 Stopping Sight Distance on Sag Vertical Curves
+┌───────────────────────────────────────────────────────────────┐
+│L = Curve Length (feet)                                        │
+│A = Algebraic Grade Difference (%)                             │
+│S = Sight Distance (feet)                                      │
+│V = Design Speed for “S” in mph                                │
+│K = Distance in feet required to achieve a 1% change in  grade.│
+│    K value as shown on  graph is valid when S < L.            │
+├─────────────────────────┬──────────────────────┬──────────────┘
+│When S > L               │When S < L            │
+│L = 2S - (400 + 3.5S)/A  │L = AS^2/(400 + 3.5S) │
+└─────────────────────────┴──────────────────────┘
+Notes:
+	• For sustained downgrades, see Index 201.3.
+	• Before using this figure for intersections, branch connections and exits, see  Indexes 201.7 and 405.1, and Topic 504.
+	• See Figure 204.4 for vertical curve formulas.
+	• See Index 204.4 for minimum length of vertical curve.
+	
+Figure 201.6 Stopping Sight Distance on Horizontal Curves
+┌─────────────────────────────────────────────────────┐
+│Line of sight is 2.0 feet above the centerline inside│
+│lane at point of obstruction.                        │
+│                                                     │
+│R = Radius of the centerline of the lane             │
+│    nearest the obstruction (feet).                  │
+│S = Sight Distance (feet)                            │
+│V = Design Speed for “S” in mph                      │
+│m = Clear distance from centerline of the lane       │
+│    nearest the obstruction (feet).                  │
+├───────────────────────────────┬─────────────────────┘
+│m = R(1 - cos(28.65*S/R))      │
+│S = R/28.65*(cos^-1((R - m)/R))│
+└───────────────────────────────┘
+Notes:
+	• For sustained downgrades, see Index 201.3.
+	• Formulas apply only when “S” is equal to or less than length of curve.
+	• Angles in formulas are expressed in degrees.
+  
+Figure 201.A Superelevation
+┌───────────────────────────────────────────────┐
+│e = Roadway superelevation slope, feet per foot│
+│f = Side friction factor                       │
+│R= Curve radius, feet                          │
+│V= Vehicle speed, miles per hour               │
+├────────────────────────────────┬──────────────┘
+│e + f = 0.067*V^2/R = V^2/(15*R)│
+└────────────────────────────────┘
+
+Standard superelevation rates are designed to hold the portion of the centrifugal force that must be taken up by tire friction within allowable limits. Friction factors as related to speed are shown on Figure 202.2. The factors apply equally to flexible and rigid pavements.
+
+### 202.2 Standards for Superelevation
+(1) Highways. Maximum superelevation rates for various highway conditions are shown in Tables 202.2A through 202.2E. The maximum rates of superelevation (emax) used on highways are controlled by four factors: climate conditions (i.e., frequency and amount of snow and ice); terrain conditions (i.e., flat, rolling, or mountainous); type of area (i.e., rural or urban); and frequency of slow-moving vehicles whose operations might be affected by high superelevation rates. Consideration of these factors jointly leads to the conclusion that no single maximum superelevation rate is universally applicable. The highest superelevation rate for highways in common use is 10 percent, although 12 percent is used in some cases. Superelevation rates above 8 percent are only used in areas without snow and ice. Although higher superelevation rates offer an advantage to vehicles at high speeds, current practice considers that rates in excess of 12 percent are beyond practical limits. This practice recognizes the combined effects of construction processes, maintenance difficulties, and operation of vehicles at low speeds. Where traffic congestion or the clustered land use of developing corridors (i.e., industrial, commercial, and residential) restricts top speeds, it is common practice to utilize a lower maximum rate of superelevation (typically 4 to 6 percent). Similarly, either a low maximum rate of superelevation or no superelevation is employed within intersection areas or where there is a tendency to drive slowly because of turning and crossing movements, warning devices, and signals. In these areas it is difficult to warp crossing pavements for drainage without providing negative superelevation for some turning movements. Therefore, use of Tables 202.2D and 202.2E for urban roads may not apply in these locations. **Roadways described below, (a) through (e), shall be designed with the emax indicated.** Design of local roads should generally use (d) and (e).
+	(a) Use emax=12% for ramps, connectors, 2-lane conventional highways, and frontage roads. See Index 202.7 for frontage roads under other jurisdictions.
+	(b) Use emax=10% for freeways, expressways, and multilane conventional highways.
+	(c) Use emax=8% when snow and ice conditions prevail (usually over 3,000 feet elevation).
+	(d) Use emax=6% for urban roads with design speeds 35 to 45 miles per hour.
+	(e) Use emax=4% for urban roads with design speeds less than 35 miles per hour.
+**Based on the above emax, superelevation rates from Tables 202.2A through 202.2E shall be used with the minimum curve radii and design speed (Vd).** If the superelevation rate is not a whole number, the superelevation rate may be rounded up to the next whole number. **If less than standard superelevation rates are approved (see Index 82.1), Figure 202.2 shall be used to determine superelevation based on the curve radius and maximum comfortable speed.** When using Tables 202.2A through 202.2E for a given radius, interpolation is not necessary as the superelevation rate should be determined from a radius equal to, or slightly smaller than, the radius provided in the table. The result is a superelevation rate that is rounded up to the nearest 0.2 of a percent. For example, a 50 mph curve with a maximum superelevation rate of 8 percent and a radius of 1,880 feet should use the radius of 1,830 feet to obtain a superelevation of 5.4 percent. Also, Tables 202.2A through 202.2E use the following terms as defined:
+	(1) “normal crown” (NC) designates a traveled way cross section used on curves that are so flat that the elimination of adverse cross slope is not needed, and thus the normal cross slope sections can be used. See Index 301.3 for further guidance.
+	(2) “remove adverse crown” (RC) designates curves where the adverse cross slope should be eliminated by superelevating the entire roadway at the normal cross slope rate.
+Maximum comfortable speed is determined by the formula given on Figure 202.2. It represents the speed on a curve where discomfort caused by centripetal acceleration is evident to a driver. AASHTO, A Policy on Geometric Design of Highways and Streets, states, "In general, studies show that the maximum side friction factors developed between new tires and wet concrete pavements range from about 0.5 at 20 miles per hour to approximately 0.35 at 60 miles per hour. In all cases, the studies show a decrease in friction values as speeds increase." To use Figure 202.2, the designer must decide on the relative importance among three variables. Normally, when a nonstandard superelevation rate is approved, Figure 202.2 will be entered with the superelevation rate and a desired curve radius. It must then be determined whether the resulting maximum comfortable speed is adequate for the conditions or whether further adjustments to radius and superelevation may be needed. Except for short radius curves, the standard superelevation rate results in very little side thrust at speeds less than 45 miles per hour. This provides maximum comfort for most drivers. Superelevation for horizontal curves with radii of 10,000 feet and greater may be deleted in those situations where the combination of a flat grade and a superelevation transition would create undesirable drainage conditions on the pavement. Superelevated cross slopes on curves extend the full width of the traveled way and shoulders, except that the shoulder slope on the low side should be not less than the minimum shoulder slope used on the tangents (see Index 304.3 for cross slopes undercut widening conditions). *On rural 2-lane roads, superelevation should be on the same plane for the full width of traveled way and shoulders, except on transitions (see Index 304.3 for cut widening conditions).*
+(2) Bikeways. Superelevation design criteria in Index 202.2(1) also accommodates Class II, III, and IV bikeways. See Index 1003.1 for Class I guidance.
