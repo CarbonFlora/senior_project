@@ -30,7 +30,7 @@ No warranty is made regarding the results of use of this Caltrans Highway Design
 
 # CHAPTER 60 - NOMENCLATURE
 Unless indicated otherwise in this manual, wherever the following abbreviations, terms, or phrases are used, their intent and meaning shall be as identified in this Chapter.
-### Topic 61 — Abbreviations
+## Topic 61 — Abbreviations
 #### Index 61.1 — Official Names
 Amer. Asso. of State Highway & Transportation Officials (AASHTO)
 California Department of Transportation                 (Caltrans or Department)
@@ -82,8 +82,7 @@ State Transportation Improvement Program                (STIP)
 (2) Bridges. A structure including supports erected over a depression or an obstruction, such as water, highway, or railway, and having a track or passageway for carrying traffic or other moving loads; and having an opening measured along the center of the roadway of more than 20 feet between undercopings of abutments or spring lines of  (buried) arches, or extreme ends of openings for  (buried) multiple boxes. It may also include  (buried) multiple pipes, where the clear distance between openings is less than half of the smaller contiguous opening. 
 (3) Culverts. A type of buried structure without a bridge number, see Index 806.2. Any structure that fits the definition of a bridge shall be assigned a bridge number by Structure Maintenance and Investigation. Buried structures that meet the definition of a bridge but are made of a collection of culverts will only be considered as bridges for the purposes of design and structural maintenance record, not for definitions in specifications. Buried structures, with or without bridge numbers, covered by Caltrans Standard Plans can be designed by the District. Culvert modifications to Standard Plans can be designed by the District and shall be reviewed by the Division of Engineering Services. Buried structure with a bridge number but not covered by Standard Plans shall be designed by the Division of Engineering Services.
 
-Figure 62.2
-Types of Structures
+Figure 62.2 Types of Structures
    UNDERPASS       OVERHEAD      BRIDGE&OVER.       VIADUCT
 ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐
 │Railroad     │ │State Highway│ │State Highway│ │State Highway│
@@ -293,7 +292,7 @@ See Chapter 800 for definition of drainage terms.
 (13) Vehicle. A device to move, propel or draw a person upon a highway, except a device on rails or propelled exclusively by human power. This definition, abstracted from the CVC, is intended to refer to motor vehicles, excluding those devices necessary to provide mobility to persons with disabilities.
 
 # CHAPTER 80 – APPLICATION OF DESIGN STANDARDS
-### Topic 81 – Project Development Overview
+## Topic 81 – Project Development Overview
 #### Index 81.1 – Philosophy
 The Project Development process seeks to provide a degree of mobility to users of the transportation system that is in balance with other values. In the development of transportation projects, social, economic, and environmental effects must be considered fully along with technical issues so that final decisions are made in the best overall public interest. Attention should be given to such considerations as:
 (a) Need to provide transportation for all users (motorists, bicyclists, transit riders, and pedestrians) of the facility and transportation modes.
@@ -306,9 +305,9 @@ Proper consideration of these items requires that a facility be viewed from the 
 
 ### 81.2 Highway Context
 The context of a highway is a critical factor when developing the purpose and need statement for a project in addition to making fundamental design decisions such as its typical cross section and when selecting the design elements and aesthetic features such as street furniture and construction materials. Designing a highway that is sensitive to, and respectful of, the surrounding context is critical for project success in the minds of the Department and our stakeholders. A “one-size-fits-all” design philosophy is not Departmental policy. Designers need to be aware of and sensitive to land use, community context and the associated user needs of the facility. In some instances, the design criteria and standards in this manual are based on the land use contexts in which the State highway is located, for instance: large population areas and downtowns in urban areas, small rural towns and communities, suburban commercial/residential areas, and rural corridors. This approach ensures the standards are flexible, and the approach allows and encourages methods to minimize impacts on scenic, historic, archaeological, environmental, and other important resources. Beyond their intended transportation benefits, State highways can significantly impact the civic, social and economic conditions of local communities. Designing transportation facilities that integrate the local transportation and land uses while making the design responsive to the other needs of the community support the livability of the community and are usually a complementary goal to meeting the transportation needs of the users of the State highway system. To do this successfully, the designer needs to have an understanding of the area surrounding the highway and the users of the highway, its function within the regional and State transportation systems, (which includes all transportation modes), and the level of access control needed. To gain this understanding, the designer must consult the Transportation Concept Reports and work with the planning division and the local agencies. In this manual, the following concepts are used to discuss the context of a highway:
-• Place Type - the surrounding built and natural environment;
-• Type of Highway - the role the highway plays in terms of providing regional or interregional connectivity and local access; and,
-• Access Control - the degree of connection or separation between the highway and the surrounding land use.
+	• Place Type - the surrounding built and natural environment;
+	• Type of Highway - the role the highway plays in terms of providing regional or interregional connectivity and local access; and,
+	• Access Control - the degree of connection or separation between the highway and the surrounding land use.
 A “Main Street” design is not specific to a certain place type, but is a design philosophy to be applied on State highways that also function as community streets. A “Main Street” design serves pedestrians, bicyclists, businesses and public transit with motorized traffic operating at speeds of 20 to 40 miles per hour. See the Department’s “Main Street, California” document for more information.
 
 ### 81.3 Place Types
@@ -343,25 +342,25 @@ Index 62.3 defines a controlled access highway and a conventional highway. The l
 
 ### 81.6 Design Standards and Highway Context
 The design standards were initially established to increase highway mobility and development, promoting a State transportation system that operated at selected levels of service consistent with projected traffic volumes and highway classification. Design standards revolved around FHWA’s controlling criteria, evolving over time to more fully consider adjacent community values, local decisions making, and area context. The design guidance and standards in this manual have been developed with the intent of ensuring that:
-• Designers have the ability to design for all modes of travel (vehicular, bicycle, pedestrian, truck and transit); and,
-• Designers have the flexibility to tailor a project to the unique circumstances that relate to it and its location, while meeting driver expectation to achieve established project goals.
+	• Designers have the ability to design for all modes of travel (vehicular, bicycle, pedestrian, truck and transit); and,
+	• Designers have the flexibility to tailor a project to the unique circumstances that relate to it and its location, while meeting driver expectation to achieve established project goals.
 Designers should balance the interregional transportation needs with the needs of the communities they pass through. The design of projects should, when possible, expand the options for biking, walking, and transit use. In planning and designing projects, the project development team should work with locals that have any livable policies as revitalizing urban centers, building local economies, and preserving historic sites and scenic country roads. The “Main Streets: Flexibility in Planning, Design and Operations” published by the Department should be consulted for additional guidance as should the FHWA publication “Flexibility in Highway Design”. Early consultation and discussion with the Project Delivery Coordinator and the District Design Liaison during the Project Initiation Document (PID) phase is also necessary to avoid issues that may arise later in the project development process. Design Information Bulletin 78 “Design Checklist for the Development of Geometric Plans” is a tool that can be used to identify and discuss design features that may deviate from standard.
 
-### Topic 82 – Application of Standards
+## Topic 82 – Application of Standards
 ### 82.1 Highway Design Manual Standards
 (1) General. The highway design criteria and policies in this manual provide a guide for the engineer to exercise sound judgment in applying standards, consistent with the above Project Development philosophy, in the design of projects. This guidance allows for flexibility in applying design standards and documenting design decisions that take the context of the project location into consideration; which enables the designer to tailor the design, as appropriate, for the specific circumstances while maintaining safety. The design standards used for any project should equal or exceed the minimum given in the Manual to the maximum extent feasible, taking into account costs (initial and life- cycle), traffic volumes, traffic and safety benefits, project goals, travel modes, facility type, right of way, socio-economic and environmental impacts, maintenance, etc. Because design standards have evolved over many years, many existing highways do not conform fully to current standards. It is not intended that current manual standards be applied retroactively to all existing State highways; such is neither warranted nor economically feasible. However, when warranted, upgrading of existing roadway features such as guardrail, lighting, superelevation, roadbed width, etc., should be considered, either as independent projects or as part of larger projects. A record of the decision not to upgrade existing non-standard design features are to be provided through the process described in Index 82.2. This manual does not address temporary construction features. It is recognized that the construction conditions encountered are so diverse and variable that it is not practical to set geometric criteria. Guidance for use of traffic control devices for temporary construction zones can be found in Part 6 – Temporary Traffic Control of the California Manual on Uniform Traffic Control Devices (California MUTCD). Guidance for the engineering of pavements in temporary construction zones is available in Index 612.6. In this manual, design standards and guidance are described as follows (see Index 82.4 for other procedural requirements):
 (2) Absolute Requirements. Design guidance related to requirements of law, policy, or statute that do not allow exception are phrased by the use of “must,” “is required,” “without exception,” “are to be,” “is to be,” “in no event,” or a combination of these terms.
-(3) Controlling Criteria. The FHWA has designated the following ten controlling criteria for projects on the National Highway System (NHS) as comprehensive design standards which cover a multitude of design characteristics, allowing flexibility in application:
-• Design Speed
-• Lane Width
-• Shoulder Width
-• Horizontal Curve Radius
-• Superelevation Rate
-• Stopping Sight Distance
-• Maximum Grade
-• Cross Slope
-• Vertical Clearance
-• Design Loading Structural Capacity (non-geometric)
+(3) Controlling Criteria. The FHWA has designated the following ten controlling criteria for projects on the National Highway System (NHS) as comprehensive design standards which cover a multitude of design characteristics, allowing flexibility in application: [1]
+	• Design Speed
+	• Lane Width
+	• Shoulder Width
+	• Horizontal Curve Radius
+	• Superelevation Rate
+	• Stopping Sight Distance
+	• Maximum Grade
+	• Cross Slope
+	• Vertical Clearance
+	• Design Loading Structural Capacity (non-geometric)
 Design loading structural capacity criteria applies to all NHS facility types. See the Technical Publications – DES Manuals for further information. The remaining geometric criteria listed above are applicable to the NHS as follows: (1) On high-speed roadways (Interstate highways, other freeways, and roadways with design speeds of greater than or equal to 50 mph), all the geometric criteria apply. The stopping sight distance criteria applies to horizontal alignments and vertical alignments except for sag vertical curves; and (2) On low-speed roadways (non-freeways with design speeds less than 50 mph), only the design speed criteria applies. The two speed categories stated above that FHWA designates match the high- and low- speed definitions in Index 62.8(13) when considering that design speed and posted speed are set in 5 mph increments. The design standards related to the geometric criteria are identified in Table 82.1A among other important geometric standards in this manual regardless of the design speed of the roadway and whether or not the roadway is part of the NHS.
 (4) Standards. Design standards are those considered most essential to achievement of overall design objectives. Many pertain to requirements of law or regulations such as those embodied in the FHWA's ten controlling criteria (see Index 82.1(3)). In addition to the FHWA’s ten controlling criteria are “Caltrans-only” standards that have been identified by Caltrans as most essential pertaining to requirements of State law, policy or objectives. The design standards are shown in this manual as either Boldface type (listed in Table 82.1A) or Underlined type (listed in Table 82.1B) to indicate the approval authority for nonstandard design according to Index 82.2.
 (5) Decision Requiring Other Approvals. There are design criteria decisions that are not bold or underlined text which require specific approvals from individuals to whom such decisions have been delegated. These individuals include, but are not limited to, District Directors, Project Delivery Coordinators or their combination as specified in this manual. These decisions should be documented as the individual approving desires.
@@ -393,4 +392,169 @@ In addition to the design standards in this manual, Design Information Bulletins
 ### 82.7 Traffic Engineering
 The Division of Traffic Operations maintains engineering policy, standards, practices and study warrants to direct and guide decision-making on a broad range of design and traffic engineering features and systems, which are provided to meet the site-specific safety and mobility needs of all highway users. The infrastructure within a highway or freeway corridor, segment, intersection or interchange is not “complete” for drivers, bicyclists and pedestrians unless it includes the appropriate traffic control devices; traffic safety systems; operational features or strategies; and traffic management elements and or systems. The presence or absence of these traffic elements and systems can have a profound effect on safety and operational performance. As such, they are commonly employed to remediate performance deficiencies and to optimize the overall performance of the “built” highway system. For additional information visit the Division of Traffic Operations website at http://www.dot.ca.gov/trafficops/.
 
+┌───────────────────────────┐
+│Table 82.1 Has Been Skipped│
+└───────────────────────────┘
 
+# CHAPTER 100 – BASIC DESIGN POLICIES
+## Topic 101 – Design Speed
+#### Index 101.1 – Highway Design Speed
+(1) General. Highway design speed is defined as: "a speed selected to establish specific minimum geometric design elements for a particular section of highway". These design elements include vertical and horizontal alignment, and sight distance. Other features such as widths of pavement and shoulders, horizontal clearances, etc., are generally not directly related to highway design speed. A highway carrying a higher volume of traffic may justify a higher design speed than a lower classification facility in similar topography, particularly where the savings in user operation and other costs are sufficient to offset the increased cost of right of way and construction. A lower design speed, however, should not be assumed for a secondary road where the topography is such that drivers are likely to travel at higher speeds. It is preferable that the design speed for any section of highway be a constant value. However, during the detailed design phase of a project, situations may arise in which engineering, economic, environmental, or other considerations make it impractical to provide the minimum elements for other design standards (e.g., curve radius, stopping sight distance, etc.) established by the design speed. See Topic 82 for documenting localized exceptions to features preventing the standard design speed. The cost to correct such restrictions may not be justified. Technically, this will result in a reduction in the effective design speed at the location in question. Such technical reductions in design speed shall be discussed with and documented as required by the District approval authority or Project Delivery Coordinator depending upon the current District Design Delegation Agreement. Where a reason for limiting speed is obvious to approaching drivers or bicyclists, these users are more apt to accept a lower operating speed than where there is no apparent reason for it.
+(2) Selection. Selecting the design speed for a highway is part of the Project Development Team process. See the Project Development Procedures Manual for additional guidance.
+	(a) Considerations--The chosen design speed, for a highway segment or project, needs to take into consideration the following:
+		• The selected design speed should be consistent with the operating speeds that are likely to be expected on a given highway facility. Drivers and bicyclists adjust their speed based on their perception of the physical limitations of the highway and its vehicular and bicycle traffic. In addition, bicycling and walking can be encouraged when bicyclists and pedestrians perceive an increase in safety due to lower vehicular speeds.
+		• In California the majority of State highway projects modify existing facilities. When modifying existing facilities, the design speed selected should reflect the observed motor vehicle speed (operating speed) or the anticipated operating speed upon completion of modifications. Generally the posted speed is a reliable indicator of operating speed although operating speeds frequently exceed posted speeds.   Speed limits and speed zones are discussed in Chapter 2 of the California MUTCD, which include references to the California Vehicle Code. For existing limited access highways and conventional highways in rural areas other than Main Streets, the selected design speed for these higher-speed facilities typically is 15 to 20 mph higher than the observed motor vehicle speed (operating speed). For existing lower-speed conventional highways in urban areas and rural highways that are Main Streets with observed or proposed operating speeds of 45 mph or less, the design speed should be selected to be consistent with the highway context which may discourage high-speed operating behavior. Select a design speed that is logical with respect to topography, operating speed (or anticipated operating speed if the corridor is being redesigned and the physical characteristics of the highway are being changed), adjacent land use, design volumes for all users, collision history, access control, and facility type. On projects where posted speeds or observational data is not available, the choice of design speed is influenced principally by whether the area is rural or urban, the character of terrain, economic considerations, environmental factors, type and anticipated volume of vehicular traffic, presence of non-motorized traffic, functional classification of the highway, existing and planned adjacent land use. A highway in level or rolling terrain justifies a higher design speed than one in mountainous terrain. As discussed under Topic 109, scenic values are also a consideration in the selection of a design speed.
+	(b) Freeways and Expressways--In addition to the considerations above, as high a design speed as feasible should be selected for use on freeways and expressways, which are higher-speed facilities.
+	(c) Conventional Highways
+		(1) State Highways. In addition to the considerations above, the existing and planned highway context in terms of area place type, land use, types of users, etc. influence the selection of the appropriate design speed and should be taken into account by the Project Development Team. Consideration should also be given to Local Agency standards and transportation plans for the facility when selecting the design speed.
+		(2) Local Streets or Roads. Local streets or roads within the State right of way, including facilities which will be relinquished after construction (such as frontage roads), shall have minimum design speeds conforming to AASHTO standards, as per the functional classification of the facility in question. If the local agency having jurisdiction over the facility in question maintains design standards that exceed AASHTO standards, then the local agency standards should apply. Where the local facility connects to a freeway or expressway (such as ramp terminal intersections), the design speed of the local facility shall be a minimum of 35 miles per hour. However, the design speed should be 45 miles per hour when feasible. Every effort should be made to avoid decreasing the design speed of a local facility through the State's right of way, and all due consideration should be given to local plans to upgrade or improve the facility in the near future.
+
+### 101.2 Highway Design Speed Standards
+Table 101.2 shows appropriate ranges of design speeds that shall be used for the various types of facilities, place types, and conditions listed. For additional guidance, see Index 101.1(2).
+
+Table 101.2 Vehicular Design Speed
+
+ Facility Type                                    Design Speed(mph)
+┌───LIMITED ACCESS HIGHWAYS──────────────────────────────────┬─────┐
+│             Freeways and expressways in mountainous terrain│50-80│
+│                                     Freeways in urban areas│55-80│
+│                     Freeways and expressways in rural areas│70-80│
+│                                  Expressways in urban areas│50-70│
+│                                                            │     │
+├───CONVENTIONAL HIGHWAYS (2)────────────────────────Rural───┤     │
+│                                                Flat terrain│55-70│
+│                                             Rolling terrain│50-60│
+│                                         Mountainous terrain│40-50│
+│        Main Streets — Cities, Towns, and Community C.enters│30-40│
+├───CONVENTIONAL HIGHWAYS (2)────────────────────────Urban───┤40-50│
+│                                     Arterials — Throuqhways│30-40│
+│     Arterials - Main Streets and Regional/Community Centers│30   │
+│                                  Downtowns and City Centers│     │
+├───LOCAL FACILITIES (Within State right of way)─────────────┤     │
+│Facilities crossing a freeway or expressway, connecting to a│AASH-│
+│         conventional highway or traversing a State facility│TO(1)│
+│            Facilities connecting to a freeway or expressway│35/45│
+└────────────────────────────────────────────────────────────┴─────┘
+(1) (AASHTO) If outside of State right of way and no specific local standards apply, the minimum design speed shall be 30 miles per hour.
+(2) For conventional highways eligible or designated as State scenic highways, see Index 109.2.
+
+## Topic 102 – Design Capacity & Level of Service
+### 102.1 Design Capacity (Automobiles)
+Design capacity (automobiles) is the maximum volume of vehicle traffic for which a projected highway can provide a selected level of service. Design capacity varies with a number of factors, including:
+	(a) Level of service selected.
+	(b) Width of lanes.
+	(c) Number of lanes.
+	(d) Presence or absence of shoulders.
+	(e) Grades.
+	(f) Horizontal alignment.
+	(g) Operating speed.
+	(h) Lateral clearance.
+	(i) Side friction generated by parking, drive ways, intersections, and interchanges.
+	(j) Volumes of trucks, transit, recreational vehicles, bicycles and pedestrians.
+	(k) Spacing and timing of traffic signals, and the required timing to accommodate pedestrian crossing
+Level of Service (LOS) is largely related to speed and density among many variables. Freeways should be designed to accommodate the design year peak hour traffic volumes and to operate at a LOS determined by District Planning and/or Traffic Operations. For a rough approximation of the number of lanes required on a multilane freeway, use the following design year peak hour traffic volumes per lane at the specified LOS:
+.					
+           Design Year Peak Hour Vehicle Traffic Volume
+       LOS (Average Automobiles Per Lane Per Hour)
+┌─────┬───┬────────────────────────────────────────────┐
+│Urban│C-E│1400-2400                                   │
+│Rural│C-D│1000-1850                                   │
+└─────┴───┴────────────────────────────────────────────┘
+For conventional highways and expressways, District Planning and Traffic Operations should be consulted. Automobile traffic volumes can be adjusted for the effect of grades and the mix of automobiles, trucks, and recreational vehicles if a more refined calculation is desired. In those cases, consult the "Highway Capacity Manual", published by the Transportation Research Board
+
+### 102.2 Design Capacity and Quality of Service (Pedestrians and Bicycles)
+Sidewalks are to accommodate pedestrians at a Level of Service (LOS) equal to that of vehicles using the roadway, or better. More detailed guidance on design capacity for sidewalks is available in the “Highway Capacity Manual” (HCM), published by the Transportation Research Board. The HCM also has guidance regarding LOS for bicycle facilities for both on- and off–street applications. The LOS for on-street bicycle facilities should be equal to that of vehicles using the roadway or better. The design of off-street bicycle facilities can use the LOS methodology in the HCM when conditions justify deviations from the standards in Chapter 1000.
+
+## Topic 103 – Design Designation [1]
+### 103.1 Relation to Design
+The design designation is a simple, concise expression of the basic factors controlling the design of a given highway. Following is an example of this expression:
+ADT(2015)= 9800
+ADT(2035)= 20000
+DHV= 3000
+ESAL= 4500000
+D= 60%
+T= 12%
+V= 70mph
+TI_20= 11.0
+CLIMATEREGION= Desert
+
+The notation above is explained as follows:
+ADT(2015) -- The average daily traffic, in number of vehicles, for the construction year.
+ADT(2035) -- The average daily traffic for the future year used as a target in design.
+CLIMATE REGION -- Climate Region as defined in Topic 615. In addition to establishing design requirements for the project, this information is used by the Resident Engineer during construction to determine which clauses in the Standard Specifications apply to the project.
+DHV -- The two-way design hourly volume, vehicles.
+D -- The percentage of the DHV in the direction of heavier flow.
+ESAL -- The equivalent single axle loads forecasted for pavement engineering. See Topic 613.
+T -- The truck traffic volume expressed as a percent of the DHV (excluding recreational vehicles).
+TI20 -- Traffic Index used for pavement engineering. The number in the subscript is the pavement design life used for pavement design. See Index 613.3(5).
+V -- Design speed in miles per hour.
+
+Within a project, one design designation should be used except when:
+(a) The design hourly traffic warrants a change in the number of lanes, or
+(b) A change in conditions dictates a change in design speed.
+(c) The design daily truck traffic warrants a change in the Traffic Index.
+The design designation should be stated in project initiation documents and project reports and should appear on the typical cross section for all new, reconstructed, or rehabilitation (including Capital Preventative Maintenance) highway construction projects.
+
+### 103.2 Design Period
+Geometric design of new facilities and reconstruction projects should typically be based on estimated traffic 20 years after completion of construction. For new facilities and reconstruction projects on the Interstate System a minimum 20-year design period is required. With justification, for projects other than on the Interstate System, design periods less than 20 years may be approved by the District Director with concurrence by the Project Delivery Coordinator. For roundabout design period guidance, see Index 405.10. Safety, Resurfacing, Restoration, and Rehabilitation (RRR), and operational improvement projects should be designed on the basis of current ADT, including projects on the Interstate System. Complimentary to the design period, various components of a project (e.g., drainage facilities, structures, pavement structure, etc.) have a design life that may differ from the design period. For pavement design life requirements, see Topic 612.
+
+## Topic 104 – Control of Access
+### 104.1 General Policy
+Control of access is achieved by acquiring rights of access to the highway from abutting property owners and by permitting ingress and egress only at locations determined by the State. On freeways, direct access from private property to the highway is prohibited without exception. Abutting ownerships are served by frontage roads or streets connected to interchanges.
+
+### 104.2 Access Openings
+See Index 205.1 for the definition and criteria for location of access openings. The number of access openings on highways with access control should be held to a minimum. (Private property access openings on freeways are not allowed.) Parcels which have access to another public road or street as well as frontage on the expressway are not allowed access to the expressway. In some instances, parcels fronting only on the expressway may be given access to another public road or street by constructing suitable connections if such access can be provided at reasonable cost. With the exception of extensive highway frontages, access openings to an expressway are limited to one opening per parcel. Wherever possible, one opening should serve two or more parcels. In the case of a large highway frontage under one ownership, the cost of limiting access to one opening may be prohibitive, or the property may be divided by a natural barrier such as a stream or ridge, making it necessary to provide an additional opening. In the latter case, it may be preferable to connect the physically separated portions with a low-cost structure or road rather than permit two openings.
+
+### 104.3 Frontage Roads
+(1) General Policy.
+	(a) Purpose--Frontage roads are provided on freeways and expressways to:
+		• Control access to the through lanes, thus increasing safety for traffic.
+		• Provide access to abutting land ownerships.
+		• Provide or restore continuity of the local street or road systems.
+		• Provide for bicycle and pedestrian traffic that might otherwise need to use the freeway.
+	(b) Economic Considerations--In general, a frontage road is justified on freeways and expressways if the costs of constructing the frontage road are less than the costs of providing access by other means. Right of way considerations often are a determining factor. Thus, a frontage road would be justified if the investment in construction and extra right of way is less than either the severance damages or the costs of acquiring the affected property in its entirety. Frontage roads may be required to connect parts of a severed property or to serve a landlocked parcel resulting from right of way acquisition.
+	(c) Access Openings--Direct access to the through lanes is allowable on expressways. When the number of access openings on one side of the expressway exceeds three in 1,600 feet, a frontage road should be provided (see Index 104.2).
+(2) New Alignment. Frontage roads generally are not provided on freeways or expressways on new alignment since the abutting property owners never had legal right of access to the new facility. They may be provided, however, on the basis of considerations mentioned in (1) above.
+(3) Existing Alignment. Where a freeway or expressway is developed parallel to an existing highway or local street, all or part of the existing roadway often is retained as a frontage road. In such cases, if access to remainders of land on the side of the freeway or expressway right of way opposite the old road cannot be provided by other means, a frontage road must be constructed to serve the landlocked remainders or the remainders must be purchased outright. The decision whether to provide access or purchase should be based on considerations of cost, right of way impacts, street system continuity and similar factors (see (1) above).
+(4) Railroad Crossings. Frontage roads on one or both sides of a freeway or expressway on new alignment, owing to safety and cost considerations, frequently are terminated at the railroad right of way. When terminating a frontage road at the railroad crossing, bicycle and pedestrian traffic still needs to have reasonable access through the community. Any new railroad grade crossings and grade separations, and any relocations or alterations of existing crossings must be cleared with the railroad and approved by the PUC.
+(5) Frontage Roads Financed by Others. Frontage roads which are not a State responsibility under this policy may be built by the State upon request of a local political subdivision, a private agency, or an individual. Such a project must be covered by an agreement under which the State is reimbursed for all construction, right of way, and engineering costs involved.
+
+### 104.4 Protection of Access Rights
+For proper control of acquired access rights, fencing or other approved barriers shall be installed on all controlled access highways except as provided in Index 701.2(3)(e).
+
+### 104.5 Relation of Access Opening to a Median Opening
+Access openings should not be placed within 300 feet of a median opening unless the access opening is directly opposite the median opening. Details on access openings are given under Index 205.1.
+
+### 104.6 Maintaining Local Community Access
+When planning and designing a new freeway or expressway, the designer needs to consider the impacts of an access controlled facility on the local community. Closing non-expressway local road connections may negatively impact access for pedestrians, bicyclists and equestrians. A new facility may inadvertently sever local non-motorized access creating long out of direction travel. Designers need to coordinate with local agencies for access needs across an access controlled facility.
+
+### 104.7 Cross References
+(a) Access Control at Intersections at Grade (see Index 405.6).
+(b) Access Control at Interchanges (see Index 504.8).
+
+## Topic 105 – Pedestrian Facilities
+### 105.1 General Policy
+The California Vehicle Code Section 21949 has stated a policy for the Department to provide safe and convenient travel for pedestrians. Conventional highways can be used by pedestrians. Although the Department will work to provide safe and convenient pedestrian travel on these highways, not all of these highways will contain sidewalks and walkways. Connections between different modes of travel should be considered when designing highway facilities, as all people may become pedestrians when transferring to a transit based facility. Pedestrian use near transit facilities should be considered during the planning phase of transportation improvement projects. See DIB 82 for accessibility guidance of pedestrian facilities. See also Topics 115 and 116 for guidance regarding designing for bicycle traffic.
+
+### 105.2 Sidewalks and Walkways
+The design of sidewalks and walkways varies depending on the setting, standards, and requirements of local agencies. Sidewalks are desirable on conventional highways and on other areas of State highway right of way to serve pedestrians when warranted by sufficient population, density and development. Coordination with the local agency that the State highway passes through is needed to determine the appropriate time to provide sidewalks. Most local agencies in California have adopted varying design standards for urban and rural areas, as well as more specific requirements that are applicable to residential settings, downtowns, special districts, and other place types. These standards are typically tied to zoning requirements for land use established by local agencies. These land use decisions should take into account the ultimate need for public right of way, including the transportation needs of bicyclists and pedestrians. The minimum width of a sidewalk should be 8 feet between a curb and a building when in urban and rural main street place types. For all other locations the minimum width of sidewalk should be 6 feet when contiguous to a curb or 5 feet when separated by a planting strip. Sidewalk width does not include curbs. See Index 208.4 for bridge sidewalks. Using the minimum width may not be enough to satisfy the actual need if additional width is necessary to maintain an acceptable Level of Service (LOS) for pedestrians. Note that street furniture, buildings, utility poles, light fixtures and platoon generators, such as window displays and bus stops, can reduce the effective width of sidewalks and likewise the LOS of the walkway. Also, adequate width for curb ramps and driveways are other important accessibility considerations. See Index 205.3(6) and the Standard Plans for sidewalk requirements at driveways. See Index 208.6 for information on pedestrian overcrossings and undercrossings and Index 208.4 for sidewalks on bridges. “A Policy on Geometric Design of Highways and Streets”, issued by AASHTO, and the “Highway Capacity Manual”, published by the Transportation Research Board contain pedestrian LOS criteria. These are means of measuring the ability of the existing pedestrian facilities to provide pedestrian mobility and to determine the need for improvements or expansions. If adequate capacity is not provided, pedestrian mobility may be seriously impeded. Traffic volume-pedestrian warrants for sidewalks or other types of walkways along highways have not been established. In general, whenever the roadside and land development conditions are such that pedestrians regularly move along a highway, those pedestrians should be furnished with a sidewalk or other walkway, as is suitable to the conditions. Sidewalks are typically within public right of way of the local agency or the State. When within the State highway right of way, the need for sidewalks becomes a shared interest, since the zoning, planned development, and growth are under the local agency’s purview. The State may assume financial responsibility for the construction of sidewalks and walkways under the conditions described below. See the Project Development Procedures Manual for further discussion of the State's responsibility in providing pedestrian facilities.
+(1) Replacement in Kind. Where existing sidewalks are to be disturbed by highway construction, the replacement applies only to the frontages involved and no other sidewalk construction is authorized except:
+	(a) As part of a right of way agreement.
+	(b) Where the safety or capacity of the highway will be improved.
+(2) Conventional Highways. The roadway cross section usually provides areas for pedestrians. If the safety or capacity of the highway will be improved, the State may contribute towards the cost of building a pedestrian facility with a local agency project or fund it entirely with a State highway project. The city, county, or property owner whose adjacent development generated the pedestrian traffic may build sidewalks on State right of way under a permit in accordance with the route concept report.
+(3) Freeway and other Controlled Access Facilities. Sidewalks should be built across the freeway right of way on overcrossings and through undercrossings where necessary to connect with existing or planned sidewalks. Construction of planned sidewalks should be imminent. Within the foregoing criteria, sidewalks can be part of the original project or added later when the surrounding area develops.
+(4) Overcrossing and Undercrossing Approaches. Where sidewalks are planned on overcrossing structures or under a structure, an area should be provided to accommodate future sidewalks.
+(5) School Pedestrian Walkways. School pedestrian walkways may be identified along a route used by school pedestrians that is not limited to crossing locations, but includes where physical conditions require students to walk in or along rural or suburban roadways.
+(6) Frontage Roads. Sidewalks may be built along frontage roads connecting local streets that would otherwise dead end at the freeways. Such sidewalks can be new or replacements of existing facilities. Sidewalks may not be needed on the freeway side of frontage roads except where connections must be made to pedestrian separations or other connections where appropriate.
+(7) Separated Cross Streets. Sidewalks may be built on separated cross streets where reconstruction of the cross street is made necessary by the freeway project and where the criteria of paragraph (3) above apply.
+(8) Transit Stops. Sidewalks should be built to connect transit stops to local streets.
+(9) Vehicular Tunnels. Sidewalks and pedestrian facilities may be built as part of vehicular tunnels which do not require ventilation as part of the tunnel structure. Contact the Division of Engineering Services - Structure Design (DES-SD), regarding allowable conditions.
+(10) Maintenance. The State is responsible for maintaining and replacing damaged sidewalks within the right of way except:
+	(a) Where the sidewalk was placed by a private party under encroachment permit that requires the permittee to maintain the sidewalk, but only if the original permittee still owns the abutting property.
+	(b) Where the city or county has placed nonstandard sidewalks with colored or textured surfaces, or meandering alignment. See Maintenance Manual for additional discussion on State's maintenance responsibilities regarding sidewalks.
+
+### 105.3 Pedestrian Grade Separations
+(1) Pedestrian grade separation takes the form of pedestrian overcrossings or undercrossings. These grade separations are suitable for crossing freeways, rivers, railroads, canyons and other obstacles for which no other crossing opportunities exist. See Index 208.6 for design guidance for pedestrian and bicycle overcrossings and undercrossings. The need for a pedestrian grade separation is based on a study of the present and future needs of a particular area or community. Each situation should be investigated and considered on its own merits. The study should cover pedestrian generating sources in the area, pedestrian crossing volumes, type of highway to be crossed, location of adjacent crossing facilities, circuity, zoning, land use, sociological and cultural factors, and the predominant age of persons expected to utilize the facility. Pedestrian patterns should be maintained across freeway routes where these patterns have been previously established. Where vehicular crossings are inadequate for pedestrians, separate structures should be provided. In general, if a circuitous route is involved, a pedestrian separation may be justified even though the number of pedestrians is small. State participation in the financing of pedestrian separations at ramp terminals is not normally justified because of the crash history at these locations. Exceptions to this general policy should be considered only in special circumstances where no less expensive alternative is feasible. Where a pedestrian grade separation is justified, an overcrossing is preferred. Undercrossings tend to provide less visibility which provides more opportunities for vandalism and criminal activity. Consideration may be given to an undercrossing when specifically requested in writing by a local agency. Unobstructed visibility should be provided through the structure and approaches. See Index 105.4 for discussion of provisions for persons with disabilities.
+(2) Financing.
+	(a) Freeways--Where the pedestrian grade separation is justified prior to award of the freeway contract, the State should pay the full cost of the pedestrian facility. In some cases, construction of the separation may be deferred; however, where the need has been established to the satisfaction of the Department prior to award of the freeway contract, the State should pay the entire cost of the separation. Local jurisdictions have control (by zoning and planning) of development that influences pedestrian traffic patterns. Therefore, where a pedestrian grade separation is justified after the award of a freeway contract, the State's share of the total construction cost of the separation should not exceed 50 percent. The State must enter into a cooperative agreement with the local jurisdiction on this basis.
+	(b) Conventional Highways--Grade separations are not normally provided for either cars or pedestrians on conventional highways. However, in those rare cases where pedestrian use is extensive, where it has been determined that placement and configuration of the grade separation will result in the majority of pedestrians using it, and where the local agency has requested in writing that a pedestrian separation be constructed, an overcrossing may be considered. The State's share of the total construction cost of the pedestrian facility should not exceed 50 percent. The State must enter into a cooperative agreement with the local jurisdiction on this basis.
