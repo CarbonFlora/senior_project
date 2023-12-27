@@ -24,9 +24,9 @@ This Seventh Edition of the Highway Design Manual is in U.S. Customary (English)
 ### Use of the HDM as a Reference in Other Media
 No warranty is made regarding the results of use of this Caltrans Highway Design Manual (HDM) or that the HDM will accurately and reliably test construction designs for compliance with any Federal, State or industry standards, or that the HDM will predict or test the safety or other feature or a structure. Engineering judgment must be used to apply the HDM to designs and to adjust designs to fit individual site conditions. The HDM is not intended to be a substitute for engineering knowledge, experience or judgment. In no event shall the Department be liable for costs of procurement of substitute goods, loss of profits, or for any indirect, special, consequential or incidental damages, however caused, by use of the HDM. The Department shall not be liable for any claims in connection with the use of the HDM, including without limitation, liability arising from third-party claims, liability related to the quality of calculations or the safety or quality or structures, liability for scheduling delays or re-design, retrofit or re-work of structures, or other similar liability.
 
-┌───────────────────────┐
-│Chapters 10-40 Skipped.│
-└───────────────────────┘
+┌───────────────────────┐  
+│Chapters 10-40 Skipped.│  
+└───────────────────────┘  
 
 # CHAPTER 60 - NOMENCLATURE
 Unless indicated otherwise in this manual, wherever the following abbreviations, terms, or phrases are used, their intent and meaning shall be as identified in this Chapter.
