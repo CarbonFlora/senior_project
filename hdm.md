@@ -24,15 +24,16 @@ The Table of Contents gives the index number and page number for each topical pa
 This Seventh Edition of the Highway Design Manual is in U.S. Customary (English) units. Departmental policy established by Director’s Policy 15-R1 and Deputy Directive Number 12- R1, both effective October 2006, state that the Department has adopted the use of the U.S. Customary (English) units as its preferred system of units and measures. All projects designed and constructed in English units shall follow the standards in this manual.  
 ### Use of the HDM as a Reference in Other Media  
 No warranty is made regarding the results of use of this Caltrans Highway Design Manual (HDM) or that the HDM will accurately and reliably test construction designs for compliance with any Federal, State or industry standards, or that the HDM will predict or test the safety or other feature or a structure. Engineering judgment must be used to apply the HDM to designs and to adjust designs to fit individual site conditions. The HDM is not intended to be a substitute for engineering knowledge, experience or judgment. In no event shall the Department be liable for costs of procurement of substitute goods, loss of profits, or for any indirect, special, consequential or incidental damages, however caused, by use of the HDM. The Department shall not be liable for any claims in connection with the use of the HDM, including without limitation, liability arising from third-party claims, liability related to the quality of calculations or the safety or quality or structures, liability for scheduling delays or re-design, retrofit or re-work of structures, or other similar liability.  
-  
+```  
 ┌───────────────────────┐    
 │Chapters 10-40 Skipped.│    
 └───────────────────────┘    
-  
+```  
 # CHAPTER 60 - NOMENCLATURE  
 Unless indicated otherwise in this manual, wherever the following abbreviations, terms, or phrases are used, their intent and meaning shall be as identified in this Chapter.  
 ## Topic 61 — Abbreviations  
 #### Index 61.1 — Official Names  
+```
 Amer. Asso. of State Highway & Transportation Officials (AASHTO)  
 California Department of Transportation                 (Caltrans or Department)  
 Code ot Federal Regulations                             (CFR)  
@@ -53,7 +54,7 @@ Public Utilities Commission                             (PUC)
 Structure Design                                        (SD)  
 State Highway Operation and Protection Plan             (SHOPP)  
 State Transportation Improvement Program                (STIP)  
-  
+```  
 ## Topic 62 — Definitions  
 ### 62.1 Geometric Cross Section  
 (1) Lane.   
@@ -84,6 +85,7 @@ State Transportation Improvement Program                (STIP)
 (3) Culverts. A type of buried structure without a bridge number, see Index 806.2. Any structure that fits the definition of a bridge shall be assigned a bridge number by Structure Maintenance and Investigation. Buried structures that meet the definition of a bridge but are made of a collection of culverts will only be considered as bridges for the purposes of design and structural maintenance record, not for definitions in specifications. Buried structures, with or without bridge numbers, covered by Caltrans Standard Plans can be designed by the District. Culvert modifications to Standard Plans can be designed by the District and shall be reviewed by the Division of Engineering Services. Buried structure with a bridge number but not covered by Standard Plans shall be designed by the Division of Engineering Services.  
   
 Figure 62.2 Types of Structures  
+```
    UNDERPASS       OVERHEAD      BRIDGE&OVER.       VIADUCT  
 ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐  
 │Railroad     │ │State Highway│ │State Highway│ │State Highway│  
@@ -97,6 +99,7 @@ Figure 62.2 Types of Structures
 │^            │ │^            │ │^            │ │^            │  
 │Stream       │ │State Highway│ │Local Road   │ │State Highway│  
 └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘  
+```
 (Note: ^ means underneath.)  
   
 ### 62.3 Highway Types  
@@ -392,11 +395,11 @@ In addition to the design standards in this manual, Design Information Bulletins
   
 ### 82.7 Traffic Engineering  
 The Division of Traffic Operations maintains engineering policy, standards, practices and study warrants to direct and guide decision-making on a broad range of design and traffic engineering features and systems, which are provided to meet the site-specific safety and mobility needs of all highway users. The infrastructure within a highway or freeway corridor, segment, intersection or interchange is not “complete” for drivers, bicyclists and pedestrians unless it includes the appropriate traffic control devices; traffic safety systems; operational features or strategies; and traffic management elements and or systems. The presence or absence of these traffic elements and systems can have a profound effect on safety and operational performance. As such, they are commonly employed to remediate performance deficiencies and to optimize the overall performance of the “built” highway system. For additional information visit the Division of Traffic Operations website at http://www.dot.ca.gov/trafficops/.  
-  
+```  
 ┌───────────────────────────┐  
 │Table 82.1 Has Been Skipped│  
 └───────────────────────────┘  
-  
+```  
 # CHAPTER 100 – BASIC DESIGN POLICIES  
 ## Topic 101 – Design Speed  
 #### Index 101.1 – Highway Design Speed  
@@ -414,7 +417,7 @@ The Division of Traffic Operations maintains engineering policy, standards, prac
 **Table 101.2 shows appropriate ranges of design speeds that shall be used for the various types of facilities, place types, and conditions listed.** For additional guidance, see Index 101.1(2).  
   
 Table 101.2 Vehicular Design Speed  
-  
+```  
  Facility Type                                    Design Speed(mph)  
 ┌───LIMITED ACCESS HIGHWAYS──────────────────────────────────┬─────┐  
 │             Freeways and expressways in mountainous terrain│50-80│  
@@ -436,6 +439,7 @@ Table 101.2 Vehicular Design Speed
 │         conventional highway or traversing a State facility│TO(1)│  
 │            Facilities connecting to a freeway or expressway│35/45│  
 └────────────────────────────────────────────────────────────┴─────┘  
+```
 (1) (AASHTO) If outside of State right of way and no specific local standards apply, the minimum design speed shall be 30 miles per hour.  
 (2) For conventional highways eligible or designated as State scenic highways, see Index 109.2.  
   
@@ -454,13 +458,14 @@ Design capacity (automobiles) is the maximum volume of vehicle traffic for which
 	(j) Volumes of trucks, transit, recreational vehicles, bicycles and pedestrians.  
 	(k) Spacing and timing of traffic signals, and the required timing to accommodate pedestrian crossing  
 Level of Service (LOS) is largely related to speed and density among many variables. Freeways should be designed to accommodate the design year peak hour traffic volumes and to operate at a LOS determined by District Planning and/or Traffic Operations. For a rough approximation of the number of lanes required on a multilane freeway, use the following design year peak hour traffic volumes per lane at the specified LOS:  
-.					  
+```					  
            Design Year Peak Hour Vehicle Traffic Volume  
        LOS (Average Automobiles Per Lane Per Hour)  
 ┌─────┬───┬────────────────────────────────────────────┐  
 │Urban│C-E│1400-2400                                   │  
 │Rural│C-D│1000-1850                                   │  
 └─────┴───┴────────────────────────────────────────────┘  
+```
 For conventional highways and expressways, District Planning and Traffic Operations should be consulted. Automobile traffic volumes can be adjusted for the effect of grades and the mix of automobiles, trucks, and recreational vehicles if a more refined calculation is desired. In those cases, consult the "Highway Capacity Manual", published by the Transportation Research Board  
   
 ### 102.2 Design Capacity and Quality of Service (Pedestrians and Bicycles)  
@@ -588,11 +593,11 @@ There are various standards related to pedestrian crossings in this manual (e.g.
 	• Section 365 - An “intersection” is the area embraced within the prolongations of the lateral curb lines, or, if none, then the lateral boundary lines of the roadways, of two highways which join one another at approximately right angles or the area within which vehicles traveling upon different highways joining at any other angle may come in conflict.  
 	• Section 530 - A “roadway” is that portion of a highway improved, designed, or ordinarily used for vehicular travel.  
 	• Section 555 - A “sidewalk” is that portion of a highway, other than the roadway, set apart by curbs, barriers, markings or other delineation for pedestrian travel.  
-  
+```  
 ┌─────────────────────────┐    
 │Chapters 106-114 Skipped.│    
 └─────────────────────────┘    
-  
+```  
 ## Topic 115 – Designing for Bicycle Traffic  
 ### 115.1 General  
 Under the California Vehicle Code, bicyclists generally have the same rights and duties that motor vehicle drivers do when using the State highway system. For example, they make the same merging and turning movements, they need adequate sight distance, they need access to all destinations, etc. Therefore, designing for bicycle traffic and designing for motor vehicle traffic are similar and based on the same fundamental transportation engineering principles. The main differences between bicycle and motor vehicle operations are lower speed and acceleration capabilities, as well as greater sensitivity to out of direction travel and steep uphill grades. Design guidance that addresses the safety and mobility needs of bicyclists on Class II bikeways (bike lanes) is distributed throughout this manual. See Chapter 1000 for additional bicycle guidance for Class I bikeways (bike paths) and Class III bikeways (bike routes). See Design Information Bulletin (DIB) 89 for Class IV bikeways (separated bikeways) guidance. All city, county, regional and other local agencies responsible for bikeways or roads except those freeway segments where bicycle travel is prohibited shall follow the bikeway design criteria established in this manual and the California MUTCD, as authorized in the Streets and Highways Code Sections 890.6 and 891(a). However, a local agency may utilize alternative design criteria as prescribed in the Streets and Highways Code Section 891(b). The decision to develop bikeways should be made in consultation and coordination with local agencies responsible for bikeway planning to ensure connectivity and network development. Generally speaking, bicycle travel can be enhanced by bikeways or improvements to the right-hand portion of roadways, where bicycles are required to travel. When feasible, a wider shoulder than minimum standard should be considered since bicyclists are required to ride to as far to the right as possible, and shoulders provide bicyclists an opportunity to pull over to let faster traffic pass. All transportation improvements are an opportunity to improve safety, access, and mobility for the bicycle mode of travel.   
@@ -622,6 +627,7 @@ Sight distance is the continuous length of highway ahead, visible to the highway
 Passing sight distance is the minimum sight distance required for the driver of one vehicle to pass another vehicle safely and comfortably. Passing must be accomplished assuming an oncoming vehicle comes into view and maintains the design speed, without reduction, after the overtaking maneuver is started.  
   
 Table 201.1 Sight Distance Standards & Table 201.7 Decision Sight Distance  
+```
 ┌────────┬────────┬───────┬────────┐  
 │Design  │Stopping│Passing│Decision│  
 │Speed   │(2)(ft) │(ft)   │(ft)    │  
@@ -643,6 +649,7 @@ Table 201.1 Sight Distance Standards & Table 201.7 Decision Sight Distance
 │75      │840     │2600   │1180    │  
 │80      │930     │2700   │1260    │  
 └────────┴────────┴───────┴────────┘  
+```
 (1)See Topic 101 for selection of design speed.  
 (2)For sustained downgrades, refer to underlined standard in Index 201.3  
   
@@ -669,6 +676,7 @@ When a vehicle moves in a circular path, it undergoes a centripetal acceleration
   
 Figure 201.4 Stopping Sight Distance on Crest Vertical Curves &   
 Figure 201.7 Decision Sight Distance on Crest Vertical Curves  
+```
 ┌───────────────────────────────────────────────────────────────┐  
 │L = Curve Length (feet)                                        │  
 │A = Algebraic Grade Difference (%)                             │  
@@ -680,12 +688,14 @@ Figure 201.7 Decision Sight Distance on Crest Vertical Curves
 │When S > L       │When S < L     │  
 │L = 2S – 1329/A  │L = AS^2/1329  │  
 └─────────────────┴───────────────┘  
+```
 Notes:  
 	• Before using this figure for intersections, branch connections and exits, see Indexes 201.7 and 405.1, and Topic 504.  
 	• See Figure 204.4 for vertical curve formulas.  
 	• See Index 204.4 for minimum length of vertical curve  
 	  
 Figure 201.5 Stopping Sight Distance on Sag Vertical Curves  
+```
 ┌───────────────────────────────────────────────────────────────┐  
 │L = Curve Length (feet)                                        │  
 │A = Algebraic Grade Difference (%)                             │  
@@ -697,6 +707,7 @@ Figure 201.5 Stopping Sight Distance on Sag Vertical Curves
 │When S > L               │When S < L            │  
 │L = 2S - (400 + 3.5S)/A  │L = AS^2/(400 + 3.5S) │  
 └─────────────────────────┴──────────────────────┘  
+```
 Notes:  
 	• For sustained downgrades, see Index 201.3.  
 	• Before using this figure for intersections, branch connections and exits, see  Indexes 201.7 and 405.1, and Topic 504.  
@@ -704,6 +715,7 @@ Notes:
 	• See Index 204.4 for minimum length of vertical curve.  
 	  
 Figure 201.6 Stopping Sight Distance on Horizontal Curves  
+```
 ┌─────────────────────────────────────────────────────┐  
 │Line of sight is 2.0 feet above the centerline inside│  
 │lane at point of obstruction.                        │  
@@ -718,12 +730,14 @@ Figure 201.6 Stopping Sight Distance on Horizontal Curves
 │m = R(1 - cos(28.65*S/R))      │  
 │S = R/28.65*(cos^-1((R - m)/R))│  
 └───────────────────────────────┘  
+```
 Notes:  
 	• For sustained downgrades, see Index 201.3.  
 	• Formulas apply only when “S” is equal to or less than length of curve.  
 	• Angles in formulas are expressed in degrees.  
     
 Figure 201.A Superelevation  
+```
 ┌───────────────────────────────────────────────┐  
 │e = Roadway superelevation slope, feet per foot│  
 │f = Side friction factor                       │  
@@ -732,7 +746,7 @@ Figure 201.A Superelevation
 ├────────────────────────────────┬──────────────┘  
 │e + f = 0.067*V^2/R = V^2/(15*R)│  
 └────────────────────────────────┘  
-  
+```  
 Standard superelevation rates are designed to hold the portion of the centrifugal force that must be taken up by tire friction within allowable limits. Friction factors as related to speed are shown on Figure 202.2. The factors apply equally to flexible and rigid pavements.  
   
 ### 202.2 Standards for Superelevation  
@@ -757,8 +771,7 @@ Lower superelevation rates than those given in either Table 202.2 or Figure 202.
 (3) Divided Highways.  
 	(a) Freeways – Where the initial median width is 65 feet or less, the axis of rotation should be at the centerline. Where the initial median width is greater than 65 feet and the ultimate median width is 65 feet or less, the axis of rotation should be at the centerline, except where the resulting initial median slope would be steeper than 10:1. In the latter case, the axis of rotation should be at the ultimate median edges of traveled way. Where the ultimate median width is greater than 65 feet, the axis of rotation should normally be at the ultimate median edges of traveled way. To avoid sawtooth on bridges with decked medians, the axis of rotation, if not already on centerline, should be shifted to the centerline.  
   
-Table 202.2A Minimum Radii for Design Superelevation Rates, Design Speeds, and   
-emax=4%  
+Table 202.2A Minimum Radii for Design Superelevation Rates, Design Speeds, and    emax=4%  
   
 todo!() insert tables.  
   
@@ -775,6 +788,7 @@ todo!() do something with Figure 202.2
 (5) Shoulder Transitions. The shoulder plane rotates about the adjacent edge of traveled way as well as the rotational axis of the traveled way. Shoulder superelevation transitions should be smooth and compatible with the transition of the adjacent pavements  
   
 Figure 202.5A Superelevation Transition  
+```
  Formulas                     Explaination of Terms  
 ┌───Roads──────────┬─────────┬────────────────────────────────────────┐  
 │      2-Lane Roads│L = 2500e│L = Length of Superelevation Runoff (ft)│  
@@ -786,7 +800,7 @@ Figure 202.5A Superelevation Transition
 ├──────────────────┴─────────┴──┬─────────────────────────────────────┘  
 │Limits of L: 150 <= L <= 510 ft│  
 └───────────────────────────────┘  
-  
+```  
 todo!() superelevation diagram  
   
 Figure 202.5B Superelevation Transition Terms and Definitions  
@@ -856,6 +870,7 @@ The grade line may be positioned at the ultimate median edge of traveled way whe
 **Table 204.3 shows the maximum grades which shall not be exceeded for the condition indicated.** Steep grades affect truck speeds and overall capacity. They also cause operational problems at intersections. For these reasons it is desirable to provide the flattest grades practicable (see Index 204.5 for information on truck issues with grades).  
   
 Table 204.3 Maximum Grades for Type of Highway and Terrain Conditions  
+```
  Type of     Freeways &   Rural    Urban  
  Terrain     Expressways  Highways Highways  
 ┌───────────┬────────────┬────────┬────────┐  
@@ -863,7 +878,7 @@ Table 204.3 Maximum Grades for Type of Highway and Terrain Conditions
 │Rolling    │4%          │5%      │7%      │  
 │Mountainous│6%          │7%      │9%      │  
 └───────────┴────────────┴────────┴────────┘  
-  
+```  
 *Minimum grades should be 0.5 percent in snow country and 0.3 percent at other locations.* Except for conventional highways in urban or suburban areas, a level grade line is permissible in level terrain where side fill slopes are 4:1 or flatter and dikes are not needed to carry water in the roadbed. Flat grades are not permissible in superelevation transitions due to flat spots which cause ponding on the roadbed. *Ramp grades should not exceed 8 percent.* On descending on-ramps and ascending offramps, one percent steeper is allowed (see Index 504.2(5)).  
   
 ### 204.4 Vertical Curves  
