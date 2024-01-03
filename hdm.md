@@ -1,3 +1,5 @@
+todo!() insert images into md using obsidian?
+
 Boldface is now **[paragraph]**  
 Underlined is now *[paragraph]*	  
 	  
@@ -882,7 +884,54 @@ Table 204.3 Maximum Grades for Type of Highway and Terrain Conditions
 *Minimum grades should be 0.5 percent in snow country and 0.3 percent at other locations.* Except for conventional highways in urban or suburban areas, a level grade line is permissible in level terrain where side fill slopes are 4:1 or flatter and dikes are not needed to carry water in the roadbed. Flat grades are not permissible in superelevation transitions due to flat spots which cause ponding on the roadbed. *Ramp grades should not exceed 8 percent.* On descending on-ramps and ascending offramps, one percent steeper is allowed (see Index 504.2(5)).  
   
 ### 204.4 Vertical Curves  
-Properly designed vertical curves should provide adequate sight distance, safety, comfortable driving, good drainage, and pleasing appearance. A parabolic vertical curve is used. Figure 204.4 gives all necessary mathematical relations for computing a vertical curve, either at crests or sags. *For algebraic grade differences of 2 percent and greater, and design speeds equal to or greater than 40 miles per hour, the minimum length of vertical curve in feet should be equal to 10V, where V = design speed.* As an example, a 65 miles per hour design speed would require a 650-foot minimum vertical curve length. *For algebraic grade differences of less than 2 percent, or design speeds less than 40 miles per hour, the vertical curve length should be a minimum of 200 feet.* Vertical curves are not required where the algebraic difference in grades is 0.5 percent or less. Grade  
+Properly designed vertical curves should provide adequate sight distance, safety, comfortable driving, good drainage, and pleasing appearance. A parabolic vertical curve is used. Figure 204.4 gives all necessary mathematical relations for computing a vertical curve, either at crests or sags. *For algebraic grade differences of 2 percent and greater, and design speeds equal to or greater than 40 miles per hour, the minimum length of vertical curve in feet should be equal to 10V, where V = design speed.* As an example, a 65 miles per hour design speed would require a 650-foot minimum vertical curve length. *For algebraic grade differences of less than 2 percent, or design speeds less than 40 miles per hour, the vertical curve length should be a minimum of 200 feet.* Vertical curves are not required where the algebraic difference in grades is 0.5 percent or less. Grade breaks should not be closer together than 50 feet and a total of all grade breaks within 200 feet should not exceed 0.5 percent.
+
+``` 
+┌──IN ANY VERTICAL CURVE────────┬──Definitions─────────────────────────────┐
+│m = (G'-G)L/8                  │L = length of curve measured horizontally.│
+│                               │                                          │
+│m = 1/2((El.BVC+El.EVC)/2-El.V)│G & G' = Grade rates (%)                  │
+│                               │                                          │
+│d = 4m/L^2*D^2                 │m = middle ordinate (ft)                  │
+│                               │                                          │
+│d = -50D^2/K                   │d = correction from grade line to curve   │
+│                               │                                          │
+│X = 100(H-P')/(G'-G)           │D = distance from BVC or EVC to curve pt  │
+│                               │                                          │
+│S = G-100D/K                   │S = slope of tangent on curve pt (%)      │
+│                               │                                          │
+│D0 = LG/(G-G')                 │X = distance from P' to V (ft)            │
+│                               │                                          │
+│A = G-G'                       │H = elevation of grade G projected to     │
+│                               │    station of P'                         │
+│K = L/A(100)                   │                                          │
+│                               │P & P' = elevation on respective grades   │
+│                               │                                          │
+│                               │D0 = distance to extremity (sta)          │
+│                               │                                          │
+│                               │K = distance in ft required to achieve    │
+│                               │    a 1% change in grade                  │
+└───────────────────────────────┴──────────────────────────────────────────┘ 
+```
+Note: Please see HDM 200-28 for diagrams of the vertical curve.
+
+Since flat vertical curves may develop poor drainage at the level section, adjusting the gutter grade or shortening the vertical curve may overcome any drainage problems. On 2-lane roads, extremely long crest vertical curves, over one-half mile, should be avoided, since many drivers refuse to pass on such curves despite adequate sight distance. It is sometimes more economical to construct passing lanes than to obtain passing sight distance by the use of a long vertical curve. Broken-back vertical curves consist of two vertical curves in the same direction separated by a short grade tangent. A profile with such curvature normally should be avoided, particularly in sags where the view of both curves is not pleasing. 
+
+### 204.5 Sustained Grades
+(1) General. Maximum grade is not a complete design control. The length of an uphill grade is important as well, because it affects capacity, level of service, and delay when slow moving trucks, buses, and recreational vehicles are present. A common criterion for all types of highways is to consider the addition of a climbing lane where the running speed of trucks falls 10 miles per hour or more below the running speed of remaining traffic. Figure 204.5 shows the speed reduction curves for a 200 lb/hp truck, which is representative of large trucks operating near maximum gross weight. The 10 miles per hour reduction criterion may be used as one method of determining need, however the Highway Capacity Manual should be consulted for detailed analysis.
+(2) Freeway Climbing Lanes. If design year traffic volumes are expected to be near capacity, right of way acquisition and grading for a future lane should be considered at locations where the upgrade exceeds 2 percent and the total rise exceeds 50 feet. Regardless of traffic volumes, the need for a climbing lane should be investigated on sustained upgrades greater than 2 percent if the total rise is greater than 250 feet. Refer to the Highway Capacity Manual for passenger car equivalent factors and sample calculations. *Decision sight distance (Table 201.7) should be provided at climbing lane drops on freeways.*
+(3) Two-lane Road Climbing and Passing Lanes. Climbing and passing lanes are most effective on uphill grades and curving alignment where the speed differential among vehicles is significant. Climbing and passing lanes should normally not be constructed on tangent sections where the length of tangent equals or exceeds the passing sight distance, because passing will occur at such locations without a passing lane and the double barrier stripe increases delay for opposing traffic. Where the ADT exceeds 5000, 4-lane passing sections may be considered. See Index 305.1(2) for median width standards. The Headquarters Division of Traffic Operations should be consulted regarding the length of climbing and passing lanes, which will vary with the design speed of the highway, the traffic volume, and other factors.
+
+todo!() figure 204.5
+
+(4) Turnouts
+  (a) General. On a two-lane highway where passing is limited, the California Vehicle Code requires slow-moving vehicles followed by five or more vehicles to turn off at designated turnouts or wherever sufficient area for a safe turnout exists. Designated turnouts may be constructed in hilly or mountainous terrain or on winding roads in other areas. Where less than 4-foot shoulders are provided on ascending grades, consideration should be given to providing several short sections of 4 feet or wider shoulder as turnouts for bicycle passing. Frequent turnouts that are at least 30 feet in length are recommended on sustained uphill grades. These turnouts will allow safe passing of bicycles by other bicyclists and vehicles in addition to providing resting opportunities on the sustained grade for bicyclists.
+  (b) Length. Designated turnouts should be from 200 feet to 500 feet long including a short taper (usually 50 feet) at each end. Approach speeds, grades, traffic volumes, and available space are some factors to be considered in determining the length. The District Traffic Engineer or designee should be consulted if longer turnouts are desired.
+  (c) Width. Paved widths of at least 15 feet in fill sections and 12 feet in cut sections are recommended. Width is measured from the edge of traveled way. On the outside of curves along steep fill slopes or dropoffs, greater width or the installation of guardrail should be considered.
+  (d) Location. Turnouts should be located where there is stopping sight distance for approaching drivers to see vehicles leaving and re-entering the through lanes.
   
-todo!() insert figure 204.4 equations and diagrams.  
-  
+### 204.6 Coordination of Horizontal and Vertical Alignment
+A proper balance between curvature and grades should be sought. When possible, vertical curves should be superimposed on horizontal curves. This reduces the number of sight restrictions on the project, makes changes in profile less apparent, particularly in rolling country, and results in a pleasing appearance. Where the change in horizontal alignment at a grade summit is moderate, a pleasing appearance may be attained by making the vertical curve overlap the horizontal curve. When horizontal and vertical curves are superimposed, the combination of superelevation and profile grades may cause distortion in the outer pavement edges which could create drainage concerns or confuse drivers at night. In such situations edge of pavement profiles should be plotted and smooth curves introduced to eliminate any irregularities or distortion. On highways in mountainous or rolling terrain where horizontal and vertical curves are superimposed at a grade summit or sag, the design speed of the horizontal curve should be at least equal to that of the crest or sag, and not more than 10 miles per hour less than the measured or estimated running (85th percentile) speed of vehicles on the approach roadway. On long open curves, a uniform grade line should be used because a rolling profile makes for a poor appearance. Horizontal and vertical curvature at intersections should be as flat as physical conditions permit. See “Combination of Horizontal and Vertical Alignment” in Chapter III of AASHTO, A Policy on Geometric Design of Highways and Streets, for further guidance on an alignment consistency.
+
+### 204.7 Separate Grade Lines
+Separate or independent grade lines are appropriate in some cases for freeways and expressways. They are not normally considered appropriate where medians are less than 65 feet wide (see Index 305.6). Exceptions to this may be minor differences between opposing grade lines in special situations. In addition, for either interim or ultimate expressways, any appreciable grade differential between roadbeds should be avoided in the vicinity of at-grade intersections. For traffic entering from the crossroad, confusion and wrong-way movements could result if the pavement of the far roadway is obscured because of excessive grade differential.
